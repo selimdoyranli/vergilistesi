@@ -1,6 +1,18 @@
 # CHANGELOG
 
 
+## v1.1.1
+
+[compare changes](https://github.com/selimdoyranli/vergilistesi/compare/v1.1.0...v1.1.1)
+
+### 🏡 Chore
+
+- Update og ([c9c33d1](https://github.com/selimdoyranli/vergilistesi/commit/c9c33d1))
+
+### ❤️ Contributors
+
+- Selimdoyranli ([@selimdoyranli](http://github.com/selimdoyranli))
+
 ## v1.1.0
 
 

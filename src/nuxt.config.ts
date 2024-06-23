@@ -66,6 +66,11 @@ export default defineNuxtConfig({
           content: 'https://vergilistesi.com'
         },
         {
+          hid: 'og:image',
+          property: 'og:image',
+          content: '/meta/preview/og-main-tr.png'
+        },
+        {
           hid: 'twitter:card',
           property: 'twitter:card',
           content: 'summary_large_image'
@@ -84,6 +89,11 @@ export default defineNuxtConfig({
           hid: 'twitter:url',
           property: 'twitter:url',
           content: 'https://vergilistesi.com'
+        },
+        {
+          hid: 'twitter:image',
+          property: 'twitter:image',
+          content: '/meta/preview/og-main-tr.png'
         },
         {
           hid: 'theme-color',

@@ -23,7 +23,7 @@ header.header.app-header(:class="[revealClass]")
     .app-header-action-item
       VsButton(color="secondary" size="small" active @click="isOpenCreditsDialog = true")
         AppIcon(name="charm:heart")
-        span.color-text-02.d-none.d-lg-inline-block.ms-0.ms-lg-1 Credits
+        span.color-text-02.d-inline-block.ms-1 Credits
 
   // App Credits Dialog
   AppCreditsDialog(:is-open="isOpenCreditsDialog" @on-close="isOpenCreditsDialog = false")

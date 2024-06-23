@@ -32,6 +32,10 @@
       @include media-breakpoint-down(xl) {
         grid-template-columns: repeat(2, 1fr);
       }
+
+      @include media-breakpoint-down(lg) {
+        grid-template-columns: repeat(1, 1fr);
+      }
     }
   }
 
@@ -53,6 +57,10 @@
     opacity: 0.5;
     transition: 0.4s;
     aspect-ratio: 16 / 9;
+
+    @include media-breakpoint-down(lg) {
+      aspect-ratio: 21 / 9;
+    }
 
     &:hover {
       opacity: 0.6;
@@ -133,6 +141,10 @@
       font-weight: var(--font-weight-medium);
       font-size: var(--font-size-xl);
 
+      @include media-breakpoint-between(xl, xxl) {
+        font-size: var(--font-size-md);
+      }
+
       @include media-breakpoint-down(sm) {
         font-size: var(--font-size-sm);
       }
@@ -147,6 +159,10 @@
       border: 0;
       opacity: 0.4;
       transition: 0.4s;
+
+      @include media-breakpoint-down(sm) {
+        left: calc(var(--spacer) * 4);
+      }
     }
 
     &__seeButton {

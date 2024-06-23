@@ -1,15 +1,28 @@
 <br>
 
+<br>
 <p align="center">
-<b>nuxt3-boilerplate</b>
+<a href="https://vergilistesi.com" target="_blank">
+<img src="/src/public/meta/icon/android-icon-72x72.png" alt="vergilistesi" />
+</a>
 </p>
 
 <p align="center">
-💚 Stable, compatible, powerful, clear, production ready 📦👌
+<b>vergilistesi</b>
 </p>
 
 <p align="center">
-<a href="https://github.com/selimdoyranli/nuxt3-boilerplate" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/selimdoyranli/nuxt3-boilerplate?style=social"></a>
+Türkiye'deki vergiler 🇹🇷💪
+</p>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/selimdoyranli/vergilistesi" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/selimdoyranli/vergilistesi?style=social"></a>
+</p>
+
+<p align="center">
+  <a href="https://vergilistesi.com" target="_blank">Website</a>
 </p>
 
 <div align="center">
@@ -29,7 +42,7 @@ Install [Node.js >=18.0.0](https://nodejs.org/) and run the following command:
 Git clone.
 
 ```bash
-$ git clone https://github.com/selimdoyranli/nuxt3-boilerplate.git
+$ git clone https://github.com/selimdoyranli/vergilistesi.git
 ```
 
 &nbsp;
@@ -37,7 +50,7 @@ $ git clone https://github.com/selimdoyranli/nuxt3-boilerplate.git
 #### Build Setup
 
 ```bash
-$ cd nuxt3-boilerplate
+$ cd vergilistesi
 
 # install dependencies
 $ yarn install
@@ -98,8 +111,10 @@ $ git push
 ## Tech Stack
 
 - [Nuxt](https://nuxt.com) - Nuxt3 vue framework
+- [Vuesax](https://vuesax.com) - UI library
 - Pug
 - Scss
+- Bootstrap5 scss utils
 - Typescript
 - [Pinia](https://pinia.vuejs.org) - State management
 - Husky
@@ -124,4 +139,4 @@ You can sponsor me for the continuity of my projects:
 
 ## License
 
-MIT License © 2023 [selimdoyranli](https://github.com/selimdoyranli)
+MIT License © 2024 [selimdoyranli](https://github.com/selimdoyranli)

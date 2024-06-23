@@ -1,0 +1,1497 @@
+[
+  {
+    "code": "0001",
+    "title": "YILLIK GELİR VERGİSİ",
+    "description": "Yıllık gelir vergisi, bireylerin ve kurumların yıllık gelirleri üzerinden alınan vergidir. Bu vergi, gelirlerin belirli bir oranı üzerinden hesaplanır ve devletin genel bütçesine katkı sağlar."
+  },
+  {
+    "code": "0002",
+    "title": "ZIRAİ KAZANÇ GELİR VERGİSİ",
+    "description": "Zirai kazanç gelir vergisi, tarımsal faaliyetlerden elde edilen gelirler üzerinden alınan vergidir. Çiftçilerin ve tarımsal işletmelerin yıllık kazançları üzerinden hesaplanır."
+  },
+  {
+    "code": "0003",
+    "title": "GELİR VERGİSİ S. (MUHTASAR)",
+    "description": "Gelir vergisi stopajı (muhtasar), işverenlerin çalışanlarına ödedikleri ücretler üzerinden kesilen vergidir. İşverenler, bu vergiyi çalışanların maaşlarından keserek devlete öderler."
+  },
+  {
+    "code": "0004",
+    "title": "GELİR GÖTÜRÜ TİCARİ KAZANÇ",
+    "description": "Gelir götürü ticari kazanç vergisi, küçük ölçekli ticari işletmelerin gelirleri üzerinden alınan vergidir. Bu vergi, işletmelerin belirli bir gelir eşiğini aşmayan kazançları üzerinden hesaplanır."
+  },
+  {
+    "code": "0005",
+    "title": "GELİR GÖTÜRÜ SERBEST MESLEK KAZANCI",
+    "description": "Gelir götürü serbest meslek kazancı vergisi, serbest meslek erbaplarının gelirleri üzerinden alınan vergidir. Bu vergi, belirli bir gelir eşiğini aşmayan serbest meslek kazançları üzerinden hesaplanır."
+  },
+  {
+    "code": "0006",
+    "title": "GELİR GÖTÜRÜ ÜCRET",
+    "description": "Gelir götürü ücret vergisi, çalışanların ücretleri üzerinden alınan vergidir. Bu vergi, belirli bir gelir eşiğini aşmayan ücret gelirleri üzerinden hesaplanır."
+  },
+  {
+    "code": "0007",
+    "title": "DAĞITILMAYAN KAR STOPAJI",
+    "description": "Dağıtılmayan kar stopajı, şirketlerin dağıtmadıkları karlar üzerinden alınan vergidir. Bu vergi, şirketlerin karlarını dağıtmamaları durumunda devlete ödedikleri bir tür stopaj vergisidir."
+  },
+  {
+    "code": "0010",
+    "title": "KURUMLAR VERGİSİ",
+    "description": "Kurumlar vergisi, şirketlerin yıllık kazançları üzerinden alınan vergidir. Bu vergi, şirketlerin net karları üzerinden hesaplanır ve devletin genel bütçesine katkı sağlar."
+  },
+  {
+    "code": "0011",
+    "title": "KURUMLAR VERGİSİ STOPAJI (KVKM24)",
+    "description": "Kurumlar vergisi stopajı (KVKM24), şirketlerin belirli ödemeleri üzerinden kesilen vergidir. Bu vergi, şirketlerin yaptıkları ödemelerden kesilerek devlete ödenir."
+  },
+  {
+    "code": "0012",
+    "title": "GELİR VERGİSİ (GMSI)",
+    "description": "Gelir vergisi (GMSI), gayrimenkul sermaye iratları üzerinden alınan vergidir. Bu vergi, kira gelirleri gibi gayrimenkulden elde edilen kazançlar üzerinden hesaplanır."
+  },
+  {
+    "code": "0014",
+    "title": "BASIT USULDE TİCARİ KAZANC",
+    "description": "Basit usulde ticari kazanç vergisi, küçük ölçekli ticari işletmelerin gelirleri üzerinden alınan vergidir. Bu vergi, basit usul kapsamında değerlendirilen işletmelerin kazançları üzerinden hesaplanır."
+  },
+  {
+    "code": "0015",
+    "title": "GERÇEK USULDE KATMA DEĞER VERGİSİ",
+    "description": "Gerçek usulde katma değer vergisi, mal ve hizmetlerin satışından elde edilen gelirler üzerinden alınan vergidir. Bu vergi, işletmelerin satışları üzerinden hesaplanır ve devlete ödenir."
+  },
+  {
+    "code": "0017",
+    "title": "GÖTÜRÜ USULDE KATMA DEĞER VERGİSİ",
+    "description": "Götürü usulde katma değer vergisi, küçük ölçekli işletmelerin mal ve hizmet satışlarından elde ettikleri gelirler üzerinden alınan vergidir. Bu vergi, götürü usul kapsamında değerlendirilen işletmelerin satışları üzerinden hesaplanır."
+  },
+  {
+    "code": "0020",
+    "title": "MEP İŞTİRAKÇİSİ KURUMLAR VERGİSİ",
+    "description": "MEP iştirakçisi kurumlar vergisi, MEP (Mali Eylem Planı) kapsamında yer alan kurumların gelirleri üzerinden alınan vergidir. Bu vergi, MEP'e dahil olan kurumların kazançları üzerinden hesaplanır."
+  },
+  {
+    "code": "0021",
+    "title": "BANKA MUAMELELERİ VERGİSİ",
+    "description": "Banka muameleleri vergisi, bankaların gerçekleştirdiği işlemler üzerinden alınan vergidir. Bu vergi, bankaların yaptığı çeşitli finansal işlemlerden elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0022",
+    "title": "SİGORTA MUAMELELERİ VERGİSİ",
+    "description": "Sigorta muameleleri vergisi, sigorta şirketlerinin gerçekleştirdiği işlemler üzerinden alınan vergidir. Bu vergi, sigorta şirketlerinin yaptığı çeşitli sigorta işlemlerinden elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0027",
+    "title": "GELİR VERGİSİ GEÇİCİ VERGİ",
+    "description": "Gelir vergisi geçici vergi, bireylerin ve kurumların belirli dönemlerde ödedikleri geçici vergidir. Bu vergi, yıllık gelir vergisi beyannamesi verilmeden önce belirli dönemlerde ödenir."
+  },
+  {
+    "code": "0032",
+    "title": "GELİR GEÇİCİ VERGİ",
+    "description": "Gelir geçici vergi, bireylerin ve kurumların belirli dönemlerde ödedikleri geçici vergidir. Bu vergi, yıllık gelir vergisi beyannamesi verilmeden önce belirli dönemlerde ödenir."
+  },
+  {
+    "code": "0033",
+    "title": "KURUM GEÇİCİ VERGİ",
+    "description": "Kurum geçici vergi, şirketlerin belirli dönemlerde ödedikleri geçici vergidir. Bu vergi, yıllık kurumlar vergisi beyannamesi verilmeden önce belirli dönemlerde ödenir."
+  },
+  {
+    "code": "0040",
+    "title": "DAMGA VERGİSİ (BEYANNAMELİ DAMGA VERGİSİ MÜKELLEFİ)",
+    "description": "Damga vergisi (beyannameli damga vergisi mükellefi), belirli belgeler üzerinden alınan vergidir. Bu vergi, beyannameli damga vergisi mükelleflerinin düzenledikleri belgeler üzerinden hesaplanır."
+  },
+  {
+    "code": "0046",
+    "title": "AKARYAKIT TÜKETİM VERGİSİ",
+    "description": "Akaryakıt tüketim vergisi, akaryakıt ürünlerinin tüketimi üzerinden alınan vergidir. Bu vergi, akaryakıt ürünlerinin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0048",
+    "title": "GELİR V. M.TALİH OYUNLARI ASGARİ VERGİ",
+    "description": "Gelir vergisi muhtasar talih oyunları asgari vergi, talih oyunlarından elde edilen gelirler üzerinden alınan vergidir. Bu vergi, talih oyunları işletmelerinin belirli bir asgari gelir üzerinden hesaplanır."
+  },
+  {
+    "code": "0049",
+    "title": "HER TÜRLÜ İSPİRTOLAR VE FÜZEL YAĞINDAN ALINAN EK VERGİ",
+    "description": "Her türlü ispirtolar ve füzel yağından alınan ek vergi, bu ürünlerin satışından elde edilen gelirler üzerinden alınan ek vergidir. Bu vergi, ispirtolar ve füzel yağlarının satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0050",
+    "title": "KURUMLAR V. M.TALİH OYUNLARI ASGARİ VERGİ",
+    "description": "Kurumlar vergisi muhtasar talih oyunları asgari vergi, talih oyunlarından elde edilen gelirler üzerinden alınan vergidir. Bu vergi, talih oyunları işletmelerinin belirli bir asgari gelir üzerinden hesaplanır."
+  },
+  {
+    "code": "0051",
+    "title": "DİĞER ÜCRETLER",
+    "description": "Diğer ücretler, çeşitli hizmetler karşılığında ödenen ücretler üzerinden alınan vergidir. Bu vergi, belirli hizmetler karşılığında ödenen ücretler üzerinden hesaplanır."
+  },
+  {
+    "code": "0053",
+    "title": "KURUMLAR VERGİSİ KURUM GEÇİCİ VERGİ",
+    "description": "Kurumlar vergisi kurum geçici vergi, şirketlerin belirli dönemlerde ödedikleri geçici vergidir. Bu vergi, yıllık kurumlar vergisi beyannamesi verilmeden önce belirli dönemlerde ödenir."
+  },
+  {
+    "code": "0056",
+    "title": "OYUN KAĞITLARINDAN ALINAN EK VERGİ",
+    "description": "Oyun kağıtlarından alınan ek vergi, oyun kağıtlarının satışından elde edilen gelirler üzerinden alınan ek vergidir. Bu vergi, oyun kağıtlarının satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0057",
+    "title": "RÖNTGEN FİLMLERİNDEN ALINAN EK VERGİ",
+    "description": "Röntgen filmlerinden alınan ek vergi, röntgen filmlerinin satışından elde edilen gelirler üzerinden alınan ek vergidir. Bu vergi, röntgen filmlerinin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0060",
+    "title": "MÜLGA MADEN FONU",
+    "description": "Mülga maden fonu, maden işletmelerinden alınan ve belirli bir fon için toplanan vergidir. Bu vergi, maden işletmelerinin gelirleri üzerinden hesaplanır ve ilgili fon için kullanılır."
+  },
+  {
+    "code": "0061",
+    "title": "KAYNAK KULLANIMI DESTEKLEME FONU KESİNTİSİ",
+    "description": "Kaynak kullanımı destekleme fonu kesintisi, belirli kaynakların kullanımı üzerinden alınan vergidir. Bu vergi, kaynak kullanımını desteklemek amacıyla toplanır ve ilgili fon için kullanılır."
+  },
+  {
+    "code": "0062",
+    "title": "MÜLGA KOOPERATİFÇİLİK TANITMA VE EĞİTİM FONU",
+    "description": "Mülga kooperatifçilik tanıtma ve eğitim fonu, kooperatifçilik faaliyetlerini tanıtmak ve eğitimlerini desteklemek amacıyla toplanan vergidir. Bu vergi, kooperatifçilik faaliyetlerinden elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0067",
+    "title": "G.V.K. GEÇİCİ 67/11 MADDESİNE GÖRE YAPILAN İHTİYARİ BEYAN",
+    "description": "Gelir Vergisi Kanunu geçici 67/11 maddesine göre yapılan ihtiyari beyan, belirli gelirlerin beyan edilmesi ve vergilendirilmesi amacıyla yapılan beyandır. Bu beyan, belirli gelirler üzerinden alınan vergiyi içerir."
+  },
+  {
+    "code": "0071",
+    "title": "PETROL VE DOĞALGAZ ÜRÜNLERİNE İLİŞKİN ÖZEL TÜKETİM VERGİSİ",
+    "description": "Petrol ve doğalgaz ürünlerine ilişkin özel tüketim vergisi, bu ürünlerin tüketimi üzerinden alınan vergidir. Bu vergi, petrol ve doğalgaz ürünlerinin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0073",
+    "title": "KOLALI GAZOZ, ALKOLLÜ İÇEÇEKLER VE TÜTÜN MAMÜLLERİNE İLİŞKİN ÖZEL TÜKETİM VERGİSİ",
+    "description": "Kolalı gazoz, alkollü içecekler ve tütün mamullerine ilişkin özel tüketim vergisi, bu ürünlerin tüketimi üzerinden alınan vergidir. Bu vergi, kolalı gazoz, alkollü içecekler ve tütün mamullerinin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0074",
+    "title": "DAYANIKLI TÜKETİM VE DİĞER MALLARA İLİŞKİN ÖZEL TÜKETİM VERGİSİ",
+    "description": "Dayanıklı tüketim ve diğer mallara ilişkin özel tüketim vergisi, bu ürünlerin tüketimi üzerinden alınan vergidir. Bu vergi, dayanıklı tüketim malları ve diğer malların satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0075",
+    "title": "ALKOLLÜ İÇEÇEKLERE İLİŞKİN ÖZEL TÜKETİM VERGİSİ",
+    "description": "Alkollü içeceklere ilişkin özel tüketim vergisi, alkollü içeceklerin tüketimi üzerinden alınan vergidir. Bu vergi, alkollü içeceklerin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0076",
+    "title": "TÜTÜN MAMÜLLERİNE İLİŞKİN ÖZEL TÜKETİM VERGİSİ",
+    "description": "Tütün mamullerine ilişkin özel tüketim vergisi, tütün mamullerinin tüketimi üzerinden alınan vergidir. Bu vergi, tütün mamullerinin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0077",
+    "title": "KOLALI GAZOZLARA İLİŞKİN ÖZEL TÜKETİM VERGİSİ",
+    "description": "Kolalı gazozlara ilişkin özel tüketim vergisi, kolalı gazozların tüketimi üzerinden alınan vergidir. Bu vergi, kolalı gazozların satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0091",
+    "title": "TÜTÜN MAMÜLLERİNE İLİŞKİN EK VERGİ",
+    "description": "Tütün mamullerine ilişkin ek vergi, tütün mamullerinin satışından elde edilen gelirler üzerinden alınan ek vergidir. Bu vergi, tütün mamullerinin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0092",
+    "title": "HER TÜRLÜ ALKOLLÜ İÇKİLERE İLİŞKİN EK VERGİ",
+    "description": "Her türlü alkollü içkilere ilişkin ek vergi, alkollü içkilerin satışından elde edilen gelirler üzerinden alınan ek vergidir. Bu vergi, alkollü içkilerin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0093",
+    "title": "SAİR ŞARAP VE BİRALARA İLİŞKİN EK VERGİ",
+    "description": "Sair şarap ve biralara ilişkin ek vergi, şarap ve biraların satışından elde edilen gelirler üzerinden alınan ek vergidir. Bu vergi, şarap ve biraların satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "0094",
+    "title": "HER TÜRLÜ ALKOLSÜZ İÇECEKLERDEN ALINAN EK VERGİ",
+    "description": "Her türlü alkolsüz içeceklerden alınan ek vergi, alkolsüz içeceklerin satışından elde edilen gelirler üzerinden alınan ek vergidir. Bu vergi, alkolsüz içeceklerin satışından elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "1013",
+    "title": "EĞİTİM,GENÇLİK,SPOR VE SAĞLIK HİZMETLERİ VERGİSİ",
+    "description": "Eğitim, gençlik, spor ve sağlık hizmetleri vergisi, bu alanlarda sunulan hizmetler üzerinden alınan vergidir. Bu vergi, eğitim, gençlik, spor ve sağlık hizmetlerinden elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "1018",
+    "title": "MAHSUPLARDAN KESİLEN DAMGA VERGİSİ",
+    "description": "Mahsuplardan kesilen damga vergisi, belirli belgeler üzerinden alınan vergidir. Bu vergi, mahsup işlemleri sırasında düzenlenen belgeler üzerinden hesaplanır."
+  },
+  {
+    "code": "1020",
+    "title": "FON PAYI",
+    "description": "Fon payı, belirli gelirler üzerinden alınan ve belirli bir fon için toplanan vergidir. Bu vergi, belirli gelirler üzerinden hesaplanır ve ilgili fon için kullanılır."
+  },
+  {
+    "code": "1026",
+    "title": "5254 SAYILI KANUNA GÖRE MUHTAÇ ÇİFTÇİLERE VERİLEN ÖDÜNÇ TOHUMLUKLARDAN HAZİNE ALACAĞINA DÖNÜŞENLER AİT FAİZ",
+    "description": "5254 sayılı kanuna göre muhtaç çiftçilere verilen ödünç tohumluklardan hazine alacağına dönüşenler ait faiz, bu tohumlukların geri ödenmesi sırasında alınan faizdir. Bu faiz, ödünç tohumlukların geri ödenmesi sırasında hesaplanır."
+  },
+  {
+    "code": "1027",
+    "title": "2004/5682 SAYILI BKK İLE HAZİNE ALACĞINA DÖNÜŞEN TOHUMLUK KREDİLERİNE DÖNÜŞENLER AİT FAİZ",
+    "description": "2004/5682 sayılı BKK ile hazine alacağına dönüşen tohumluk kredilerine dönüşenler ait faiz, bu kredilerin geri ödenmesi sırasında alınan faizdir. Bu faiz, tohumluk kredilerinin geri ödenmesi sırasında hesaplanır."
+  },
+  {
+    "code": "1028",
+    "title": "5335 SAYILI KANUNA GÖRE DESTEKLEME FİYAT İSTİKRAR FONUNA AİT FAİZ",
+    "description": "5335 sayılı kanuna göre destekleme fiyat istikrar fonuna ait faiz, bu fon için toplanan gelirler üzerinden alınan faizdir. Bu faiz, destekleme fiyat istikrar fonuna ait gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "1030",
+    "title": "PİŞMANLIK ZAMMI",
+    "description": "Pişmanlık zammı, vergi borcunu zamanında ödemeyen mükelleflerin ödemeleri gereken ek tutardır. Bu zam, vergi borcunun gecikmesi durumunda hesaplanır."
+  },
+  {
+    "code": "1037",
+    "title": "TRAFİK MUAYENESİ PARA CEZALARI",
+    "description": "Trafik muayenesi para cezaları, araçların trafik muayenelerini zamanında yaptırmamaları durumunda ödedikleri cezalardır. Bu cezalar, trafik muayenesi yapılmayan araçlar için uygulanır."
+  },
+  {
+    "code": "1042",
+    "title": "E.KATKI PAYI",
+    "description": "Eğitime katkı payı, eğitim hizmetlerinden elde edilen gelirler üzerinden alınan vergidir. Bu vergi, eğitim hizmetlerinden elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "1043",
+    "title": "ÖZEL İŞLEM VERGİSİ",
+    "description": "Özel işlem vergisi, belirli işlemler üzerinden alınan vergidir. Bu vergi, özel işlemlerden elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "1046",
+    "title": "TEVKİFATTAN ALINAN DAMGA VERGİSİ",
+    "description": "Tevkifattan alınan damga vergisi, belirli belgeler üzerinden alınan vergidir. Bu vergi, tevkifat işlemleri sırasında düzenlenen belgeler üzerinden hesaplanır."
+  },
+  {
+    "code": "1047",
+    "title": "DAMGA VERGİSİ",
+    "description": "Damga vergisi, belirli belgeler üzerinden alınan vergidir. Bu vergi, belgelerin düzenlenmesi sırasında hesaplanır."
+  },
+  {
+    "code": "1048",
+    "title": "5035 SAYILI KANUNA GÖRE DAMGA VERGİSİ",
+    "description": "5035 sayılı kanuna göre damga vergisi, belirli belgeler üzerinden alınan vergidir. Bu vergi, belgelerin düzenlenmesi sırasında hesaplanır."
+  },
+  {
+    "code": "1050",
+    "title": "VERGİ BARIŞI TEFE TUTARI",
+    "description": "Vergi barışı tefe tutarı, vergi barışı kapsamında ödenen vergilerin hesaplanmasında kullanılan tutardır. Bu tutar, vergi barışı kapsamında belirlenen oranlar üzerinden hesaplanır."
+  },
+  {
+    "code": "1051",
+    "title": "VERGİ BARIŞI GEÇ ÖDEME ZAMMI",
+    "description": "Vergi barışı geç ödeme zammı, vergi barışı kapsamında ödenmesi gereken vergilerin geç ödenmesi durumunda uygulanan ek tutardır. Bu zam, vergi barışı kapsamında belirlenen oranlar üzerinden hesaplanır."
+  },
+  {
+    "code": "1052",
+    "title": "5335 SAYILI KANUNA GÖRE HAZİNE ALACAĞINA DÖNÜŞEN TOHUMLUK KREDİLERİNE AİT GEÇ ÖDEME ZAMMI",
+    "description": "5335 sayılı kanuna göre hazine alacağına dönüşen tohumluk kredilerine ait geç ödeme zammı, bu kredilerin geç ödenmesi durumunda uygulanan ek tutardır. Bu zam, tohumluk kredilerinin geç ödenmesi sırasında hesaplanır."
+  },
+  {
+    "code": "1053",
+    "title": "5736 SAYILI KANUN UYARINCA GEÇ ÖDEME ZAMMI",
+    "description": "5736 sayılı kanun uyarınca geç ödeme zammı, bu kanun kapsamında ödenmesi gereken vergilerin geç ödenmesi durumunda uygulanan ek tutardır. Bu zam, kanun kapsamında belirlenen oranlar üzerinden hesaplanır."
+  },
+  {
+    "code": "1055",
+    "title": "DÜŞÜK OLAN DEĞERLEME TUTARI",
+    "description": "Düşük olan değerleme tutarı, belirli varlıkların değerlemesi sırasında düşük olarak belirlenen tutardır. Bu tutar, varlıkların değerlemesi sırasında hesaplanır."
+  },
+  {
+    "code": "1067",
+    "title": "VERGİ YARGI HARÇLARI",
+    "description": "Vergi yargı harçları, vergi yargılaması sırasında ödenen harçlardır. Bu harçlar, vergi yargılaması işlemleri sırasında hesaplanır."
+  },
+  {
+    "code": "1084",
+    "title": "GECİKME FAİZİ",
+    "description": "Gecikme faizi, vergi borcunun zamanında ödenmemesi durumunda uygulanan faizdir. Bu faiz, vergi borcunun gecikmesi durumunda hesaplanır."
+  },
+  {
+    "code": "1085",
+    "title": "PARA CEZASI FAİZİ",
+    "description": "Para cezası faizi, para cezasının zamanında ödenmemesi durumunda uygulanan faizdir. Bu faiz, para cezasının gecikmesi durumunda hesaplanır."
+  },
+  {
+    "code": "1086",
+    "title": "GECİKME ZAMMI",
+    "description": "Gecikme zammı, vergi borcunun zamanında ödenmemesi durumunda uygulanan ek tutardır. Bu zam, vergi borcunun gecikmesi durumunda hesaplanır."
+  },
+  {
+    "code": "1087",
+    "title": "ERKEN ÖDEME İNDİRİMİ",
+    "description": "Erken ödeme indirimi, vergi borcunun zamanından önce ödenmesi durumunda uygulanan indirimdir. Bu indirim, vergi borcunun erken ödenmesi durumunda hesaplanır."
+  },
+  {
+    "code": "1088",
+    "title": "PEŞİN ÖDEME İNDİRİMİ",
+    "description": "Peşin ödeme indirimi, vergi borcunun peşin olarak ödenmesi durumunda uygulanan indirimdir. Bu indirim, vergi borcunun peşin ödenmesi durumunda hesaplanır."
+  },
+  {
+    "code": "1089",
+    "title": "ALINAN DİĞER FAİZLER",
+    "description": "Alınan diğer faizler, çeşitli borçların ödenmesi sırasında alınan faizlerdir. Bu faizler, borçların ödenmesi sırasında hesaplanır."
+  },
+  {
+    "code": "1090",
+    "title": "KANUNİ FAİZ",
+    "description": "Kanuni faiz, belirli borçların ödenmesi sırasında uygulanan faizdir. Bu faiz, kanunlar çerçevesinde belirlenen oranlar üzerinden hesaplanır."
+  },
+  {
+    "code": "1091",
+    "title": "5736 SAYILI KANUN UYARINCA ALINAN FAİZ",
+    "description": "5736 sayılı kanun uyarınca alınan faiz, bu kanun kapsamında ödenmesi gereken borçların ödenmesi sırasında alınan faizdir. Bu faiz, kanun kapsamında belirlenen oranlar üzerinden hesaplanır."
+  },
+  {
+    "code": "1092",
+    "title": "HESAPLANAN FAİZ",
+    "description": "Hesaplanan faiz, belirli borçların ödenmesi sırasında hesaplanan faizdir. Bu faiz, borçların ödenmesi sırasında hesaplanır."
+  },
+  {
+    "code": "1095",
+    "title": "SAVUNMA SANAYİ DESTEKLEME FONU",
+    "description": "Savunma sanayi destekleme fonu, savunma sanayi faaliyetlerini desteklemek amacıyla toplanan vergidir. Bu vergi, savunma sanayi faaliyetlerinden elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "1096",
+    "title": "KONUT FONU",
+    "description": "Konut fonu, konut sektörünü desteklemek amacıyla toplanan vergidir. Bu vergi, konut sektöründen elde edilen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "3024",
+    "title": "KAYNAK KULLANIMI DESTEKLEME PRİMİ CEZAİ FAİZİ",
+    "description": "Kaynak kullanımı destekleme primi cezai faizi, kaynak kullanımı destekleme primi ödemelerinin gecikmesi durumunda uygulanan faizdir. Bu faiz, ödemelerin gecikmesi durumunda hesaplanır."
+  },
+  {
+    "code": "3061",
+    "title": "CEZAİ FAİZ(KAYNAK KULLANIMI DESTEKLEME FONU KESİNTİLERİ)",
+    "description": "Cezai faiz (kaynak kullanımı destekleme fonu kesintileri), kaynak kullanımı destekleme fonu kesintilerinin gecikmesi durumunda uygulanan faizdir. Bu faiz, kesintilerin gecikmesi durumunda hesaplanır."
+  },
+  {
+    "code": "3073",
+    "title": "USULSÜZLÜK CEZASI",
+    "description": "Usulsüzlük cezası, vergi usul kurallarına uyulmaması durumunda uygulanan cezadır. Bu ceza, usulsüzlük tespit edilmesi durumunda hesaplanır."
+  },
+  {
+    "code": "3074",
+    "title": "ÖZEL USULSÜZLÜK CEZASI",
+    "description": "Özel usulsüzlük cezası, vergi usul kurallarına uyulmaması durumunda uygulanan özel cezadır. Bu ceza, özel usulsüzlük tespit edilmesi durumunda hesaplanır."
+  },
+  {
+    "code": "3076",
+    "title": "KUSUR CEZASI",
+    "description": "Kusur cezası, vergi borcunun eksik veya yanlış beyan edilmesi durumunda uygulanan cezadır. Bu ceza, kusurun tespit edilmesi durumunda hesaplanır."
+  },
+  {
+    "code": "3077",
+    "title": "AĞIR KUSUR CEZASI",
+    "description": "Ağır kusur cezası, vergi borcunun eksik veya yanlış beyan edilmesi durumunda uygulanan ağır cezadır. Bu ceza, ağır kusurun tespit edilmesi durumunda hesaplanır."
+  },
+  {
+    "code": "3078",
+    "title": "KAÇAKÇILIK CEZASI",
+    "description": "Kaçakçılık cezası, vergi kaçakçılığı yapılması durumunda uygulanan cezadır. Bu ceza, kaçakçılığın tespit edilmesi durumunda hesaplanır."
+  },
+  {
+    "code": "3080",
+    "title": "VERGİ ZİYAI CEZASI",
+    "description": "Vergi ziyaı cezası, vergi borcunun eksik veya yanlış beyan edilmesi durumunda uygulanan cezadır. Bu ceza, vergi ziyaının tespit edilmesi durumunda hesaplanır."
+  },
+  {
+    "code": "3099",
+    "title": "VUK 112/4 Maddesi Gereğince Ödenen Faiz",
+    "description": "VUK 112/4 maddesi gereğince ödenen faiz, vergi borcunun gecikmesi durumunda uygulanan faizdir. Bu faiz, VUK 112/4 maddesi gereğince hesaplanır."
+  },
+  {
+    "code": "4001",
+    "title": "EK GELİR VERGİSİ",
+    "description": "Ek gelir vergisi, bireylerin ve kurumların ek gelirleri üzerinden alınan vergidir. Bu vergi, ek gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "4003",
+    "title": "EK ÜCRET GELİR VERGİSİ",
+    "description": "Ek ücret gelir vergisi, çalışanların ek ücretleri üzerinden alınan vergidir. Bu vergi, ek ücretler üzerinden hesaplanır."
+  },
+  {
+    "code": "4004",
+    "title": "EK GÖTÜRÜ TİCARİ KAZANÇ VERGİSİ",
+    "description": "Ek götürü ticari kazanç vergisi, küçük ölçekli ticari işletmelerin ek gelirleri üzerinden alınan vergidir. Bu vergi, ek gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "4005",
+    "title": "EK GÖTÜRÜ SERBEST MESLEK KAZANCI VERGİSİ",
+    "description": "Ek götürü serbest meslek kazancı vergisi, serbest meslek erbaplarının ek gelirleri üzerinden alınan vergidir. Bu vergi, ek gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "4006",
+    "title": "FAİZ VERGİSİ",
+    "description": "Faiz vergisi, faiz gelirleri üzerinden alınan vergidir. Bu vergi, faiz gelirleri üzerinden hesaplanır."
+  },
+  {
+    "code": "4007",
+    "title": "EK EMLAK VERGİSİ",
+    "description": "Ek emlak vergisi, emlak sahiplerinin ek gelirleri üzerinden alınan vergidir. Bu vergi, ek emlak gelirleri üzerinden hesaplanır."
+  },
+  {
+    "code": "4008",
+    "title": "GELİR DAHİLİ TEVKİFAT",
+    "description": "Gelir dahili tevkifat, belirli gelirler üzerinden yapılan kesintilerdir. Bu kesintiler, gelirlerin elde edilmesi sırasında hesaplanır."
+  },
+  {
+    "code": "4010",
+    "title": "EK KURUMLAR VERGİSİ",
+    "description": "Ek kurumlar vergisi, şirketlerin ek gelirleri üzerinden alınan vergidir. Bu vergi, ek gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "4011",
+    "title": "KURUMLAR VERGİSİ ARGE HARCAMALARI",
+    "description": "Kurumlar vergisi arge harcamaları, şirketlerin arge faaliyetleri için yaptıkları harcamalar üzerinden alınan vergidir. Bu vergi, arge harcamaları üzerinden hesaplanır."
+  },
+  {
+    "code": "4012",
+    "title": "KURUM DAHİLİ TEVKİFAT",
+    "description": "Kurum dahili tevkifat, şirketlerin belirli gelirleri üzerinden yapılan kesintilerdir. Bu kesintiler, gelirlerin elde edilmesi sırasında hesaplanır."
+  },
+  {
+    "code": "4014",
+    "title": "MÜNFERİT GELİR EKONOMİK DENGE V.",
+    "description": "Münferit gelir ekonomik denge vergisi, bireylerin münferit gelirleri üzerinden alınan vergidir. Bu vergi, münferit gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "4016",
+    "title": "ÜCRETLERDEN ALINACAK E.D.V.",
+    "description": "Ücretlerden alınacak ekonomik denge vergisi, çalışanların ücretleri üzerinden alınan vergidir. Bu vergi, ücret gelirleri üzerinden hesaplanır."
+  },
+  {
+    "code": "4021",
+    "title": "4705 Sayılı Kanuna Göre Tahsil Edilen Özel İşlem Vergisi",
+    "description": "4705 sayılı kanuna göre tahsil edilen özel işlem vergisi, belirli işlemler üzerinden alınan vergidir. Bu vergi, 4705 sayılı kanun kapsamında belirlenen işlemler üzerinden hesaplanır."
+  },
+  {
+    "code": "4030",
+    "title": "G.V.K. GEÇİCİ 67. MADDESİNE GÖRE YAPILAN TEVKİFAT",
+    "description": "Gelir Vergisi Kanunu geçici 67. maddesine göre yapılan tevkifat, belirli gelirler üzerinden yapılan kesintilerdir. Bu kesintiler, gelirlerin elde edilmesi sırasında hesaplanır."
+  },
+  {
+    "code": "4034",
+    "title": "MOTORLU TAŞITLAR EK VERGİSİ",
+    "description": "Motorlu taşıtlar ek vergisi, motorlu taşıtların ek gelirleri üzerinden alınan vergidir. Bu vergi, motorlu taşıtların ek gelirleri üzerinden hesaplanır."
+  },
+  {
+    "code": "4035",
+    "title": "4837 S.K EK MOTORLU TAŞITLAR VERGİSİ",
+    "description": "4837 sayılı kanun kapsamında ek motorlu taşıtlar vergisi, motorlu taşıtların ek gelirleri üzerinden alınan vergidir. Bu vergi, 4837 sayılı kanun kapsamında belirlenen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "4036",
+    "title": "4962 S. TAŞIT VERGİSİ",
+    "description": "4962 sayılı kanun kapsamında taşıt vergisi, motorlu taşıtların gelirleri üzerinden alınan vergidir. Bu vergi, 4962 sayılı kanun kapsamında belirlenen gelirler üzerinden hesaplanır."
+  },
+  {
+    "code": "4037",
+    "title": "TRAFİK MUAYENE ÜCRETİ HAZİNE PAYI",
+    "description": "Trafik muayene ücreti hazine payı, trafik muayenesi sırasında ödenen ücretlerin hazineye aktarılan kısmıdır. Bu pay, trafik muayenesi ücretleri üzerinden hesaplanır."
+  },
+  {
+    "code": "4040",
+    "title": "MÜLGA TRAFİK HİZMETLERİNİ GELİŞTİRME FONU REKLAM GELİRLERİ",
+    "description": "Mülga trafik hizmetlerini geliştirme fonu reklam gelirleri, trafik hizmetlerini geliştirmek amacıyla toplanan reklam gelirleridir. Bu gelirler, trafik hizmetleri için yapılan reklamlar üzerinden hesaplanır."
+  },
+  {
+    "code": "4041",
+    "title": "GELİR VE KURUM EKONOMİK DENGE VERGİSİ",
+    "description": "Gelir ve kurum ekonomik denge vergisi, bireylerin ve kurumların gelirleri üzerinden alınan vergidir. Bu vergi, ekonomik dengeyi sağlamak amacıyla toplanır."
+  },
+  {
+    "code": "4042",
+    "title": "5035 RTÜK EĞİTİME KATKI PAYI",
+    "description": "5035 sayılı kanun kapsamında RTÜK eğitime katkı payı, radyo ve televizyon yayınlarından elde edilen gelirler üzerinden alınan vergidir. Bu vergi, eğitime katkı sağlamak amacıyla toplanır."
+  },
+  {
+    "code": "4043",
+    "title": "GÖTÜRÜ EKONOMİK DENGE VERGİSİ",
+    "description": "Götürü ekonomik denge vergisi, küçük ölçekli işletmelerin gelirleri üzerinden alınan vergidir. Bu vergi, ekonomik dengeyi sağlamak amacıyla toplanır. Küçük işletmelerin gelirleri belirli bir oran üzerinden hesaplanarak bu vergiye tabi tutulur. Vergi, işletmelerin mali yükümlülüklerini dengelemek ve ekonomik istikrarı sağlamak için kullanılır."
+  },
+  {
+    "code": "4044",
+    "title": "GELİR VE KURUM STOPAJ EKONOMİK DENGE VERGİSİ",
+    "description": "Gelir ve kurum stopaj ekonomik denge vergisi, bireylerin ve kurumların gelirleri üzerinden yapılan kesintilerdir. Bu vergi, ekonomik dengeyi sağlamak amacıyla toplanır. Gelir ve kurum stopajları, belirli bir oran üzerinden hesaplanarak devlete ödenir. Bu kesintiler, ekonomik istikrarı sağlamak ve mali dengeyi korumak için kullanılır."
+  },
+  {
+    "code": "4046",
+    "title": "Akaryakıt Fiyat İstikrar Payı",
+    "description": "Akaryakıt fiyat istikrar payı, akaryakıt fiyatlarının dalgalanmalarını dengelemek amacıyla alınan bir vergidir. Bu vergi, akaryakıt satışlarından elde edilen gelirler üzerinden hesaplanır. Akaryakıt fiyatlarının istikrarlı bir şekilde seyretmesini sağlamak ve piyasa dalgalanmalarını minimize etmek için kullanılır."
+  },
+  {
+    "code": "4047",
+    "title": "TEK BAŞINA ALINABİLEN DAMGA VERGİSİ",
+    "description": "Tek başına alınabilen damga vergisi, belirli belgeler üzerinden alınan bir vergidir. Bu vergi, belgelerin düzenlenmesi veya onaylanması sırasında ödenir. Damga vergisi, belgelerin yasal geçerliliğini sağlamak ve devletin gelirlerini artırmak amacıyla toplanır."
+  },
+  {
+    "code": "4048",
+    "title": "ŞANS OYUNLARI VERGİSİ",
+    "description": "Şans oyunları vergisi, şans oyunlarından elde edilen gelirler üzerinden alınan bir vergidir. Bu vergi, piyango, loto, bahis gibi şans oyunlarından elde edilen kazançlar üzerinden hesaplanır. Şans oyunları vergisi, devletin gelirlerini artırmak ve sosyal projelere kaynak sağlamak amacıyla toplanır."
+  },
+  {
+    "code": "4049",
+    "title": "5035 SAYILI KANUNA GÖRE FİNANSAL FAALİYET HARCI",
+    "description": "5035 sayılı kanuna göre finansal faaliyet harcı, belirli finansal işlemler üzerinden alınan bir vergidir. Bu vergi, finansal kurumlar ve işlemlerden elde edilen gelirler üzerinden hesaplanır. Finansal faaliyet harcı, devletin mali kaynaklarını artırmak ve finansal piyasaların düzenlenmesini sağlamak amacıyla toplanır."
+  },
+  {
+    "code": "4050",
+    "title": "TEKEL SAFİ HASILAT",
+    "description": "Tekel safi hasılat, tekel ürünlerinden elde edilen net gelirler üzerinden alınan bir vergidir. Bu vergi, tekel ürünlerinin satışından elde edilen kazançlar üzerinden hesaplanır. Tekel safi hasılat vergisi, devletin gelirlerini artırmak ve tekel ürünlerinin düzenlenmesini sağlamak amacıyla toplanır."
+  },
+  {
+    "code": "4060",
+    "title": "TECİLLİ ALACAKLARDAN TAHSİLAT",
+    "description": "Tecilli alacaklardan tahsilat, ertelenmiş vergi borçlarının tahsil edilmesi işlemidir. Bu vergi, belirli bir süre için ertelenmiş olan vergi borçlarının ödenmesi sırasında alınır. Tecilli alacaklardan tahsilat, devletin vergi gelirlerini düzenli bir şekilde toplamak ve mali disiplini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "4061",
+    "title": "İTHALATTA KAYNAK KULLANIMI DESTEKLEME FONU KESİNTİSİ",
+    "description": "İthalatta kaynak kullanımı destekleme fonu kesintisi, ithalat işlemleri sırasında alınan bir vergidir. Bu vergi, ithalat işlemlerinden elde edilen gelirler üzerinden hesaplanır. İthalatta kaynak kullanımı destekleme fonu kesintisi, yerli üretimi teşvik etmek ve ithalatın olumsuz etkilerini dengelemek amacıyla toplanır."
+  },
+  {
+    "code": "4063",
+    "title": "NOTER HARÇLARI",
+    "description": "Noter harçları, noter işlemleri sırasında alınan bir vergidir. Bu vergi, noter tarafından yapılan işlemlerden elde edilen gelirler üzerinden hesaplanır. Noter harçları, noterlik hizmetlerinin düzenlenmesi ve devletin gelirlerini artırmak amacıyla toplanır."
+  },
+  {
+    "code": "4070",
+    "title": "G.V.K. GEÇİCİ 70. MD KAPSAMINDA MUHTASAR V.",
+    "description": "Gelir Vergisi Kanunu geçici 70. madde kapsamında muhtasar vergi, belirli gelirler üzerinden yapılan kesintilerdir. Bu vergi, geçici 70. madde kapsamında belirlenen gelirler üzerinden hesaplanır. Muhtasar vergi, gelirlerin elde edilmesi sırasında yapılan kesintilerle devlete ödenir."
+  },
+  {
+    "code": "4072",
+    "title": "MOTORLU TAŞIT ARAÇLARINA İLİŞKİN ÖZEL TÜKETİM VERGİSİ (TESCİLE TABİ OLMAYANLAR)",
+    "description": "Motorlu taşıt araçlarına ilişkin özel tüketim vergisi, tescile tabi olmayan motorlu taşıtlar üzerinden alınan bir vergidir. Bu vergi, motorlu taşıtların satışından elde edilen gelirler üzerinden hesaplanır. Özel tüketim vergisi, motorlu taşıtların kullanımını düzenlemek ve devletin gelirlerini artırmak amacıyla toplanır."
+  },
+  {
+    "code": "4073",
+    "title": "ERTELENEN GELİR STOPAJ (4325 4.MADDE/4369 GEÇİCİ 5.MADDE)",
+    "description": "Ertelenen gelir stopajı, 4325 sayılı kanunun 4. maddesi ve 4369 sayılı kanunun geçici 5. maddesi kapsamında ertelenmiş olan gelir stopajlarının tahsil edilmesidir. Bu vergi, belirli bir süre için ertelenmiş olan gelir stopajlarının ödenmesi sırasında alınır. Ertelenen gelir stopajı, devletin vergi gelirlerini düzenli bir şekilde toplamak ve mali disiplini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "4074",
+    "title": "ERTELENEN GELİR STOPAJ (4747 SAYILI KANUNUNUN 2.MADDESİ)",
+    "description": "Ertelenen gelir stopajı, 4747 sayılı kanunun 2. maddesi kapsamında ertelenmiş olan gelir stopajlarının tahsil edilmesidir. Bu vergi, belirli bir süre için ertelenmiş olan gelir stopajlarının ödenmesi sırasında alınır. Ertelenen gelir stopajı, devletin vergi gelirlerini düzenli bir şekilde toplamak ve mali disiplini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "4077",
+    "title": "MÜNFERİT KURUM E. D. V.",
+    "description": "Münferit kurum ekonomik denge vergisi, belirli kurumların gelirleri üzerinden alınan bir vergidir. Bu vergi, ekonomik dengeyi sağlamak amacıyla toplanır. Münferit kurumların gelirleri belirli bir oran üzerinden hesaplanarak bu vergiye tabi tutulur. Vergi, kurumların mali yükümlülüklerini dengelemek ve ekonomik istikrarı sağlamak için kullanılır."
+  },
+  {
+    "code": "4078",
+    "title": "NET AKTİF VERGİSİ",
+    "description": "Net aktif vergisi, şirketlerin net aktif değerleri üzerinden alınan bir vergidir. Bu vergi, şirketlerin sahip oldukları varlıkların net değeri üzerinden hesaplanır. Net aktif vergisi, devletin gelirlerini artırmak ve şirketlerin mali durumlarını dengelemek amacıyla toplanır."
+  },
+  {
+    "code": "4079",
+    "title": "KIYMETLİ MADEN VE ZIYNET EŞYASINDAN ALINAN VERGİ",
+    "description": "Kıymetli maden ve ziynet eşyasından alınan vergi, altın, gümüş gibi kıymetli madenler ve ziynet eşyaları üzerinden alınan bir vergidir. Bu vergi, kıymetli maden ve ziynet eşyalarının satışından elde edilen gelirler üzerinden hesaplanır. Kıymetli maden ve ziynet eşyası vergisi, devletin gelirlerini artırmak ve bu tür varlıkların ticaretini düzenlemek amacıyla toplanır."
+  },
+  {
+    "code": "4080",
+    "title": "ÖZEL İLETİŞİM VERGİSİ",
+    "description": "Özel iletişim vergisi, telekomünikasyon hizmetlerinden elde edilen gelirler üzerinden alınan bir vergidir. Bu vergi, telefon, internet, televizyon gibi iletişim hizmetlerinden elde edilen kazançlar üzerinden hesaplanır. Özel iletişim vergisi, devletin gelirlerini artırmak ve iletişim hizmetlerinin düzenlenmesini sağlamak amacıyla toplanır."
+  },
+  {
+    "code": "4081",
+    "title": "5035 SAYILI KANUNA GÖRE ÖZEL İLETİŞİM VERGİSİ",
+    "description": "5035 sayılı kanuna göre özel iletişim vergisi, telekomünikasyon hizmetlerinden elde edilen gelirler üzerinden alınan bir vergidir. Bu vergi, telefon, internet, televizyon gibi iletişim hizmetlerinden elde edilen kazançlar üzerinden hesaplanır. 5035 sayılı kanuna göre özel iletişim vergisi, devletin gelirlerini artırmak ve iletişim hizmetlerinin düzenlenmesini sağlamak amacıyla toplanır."
+  },
+  {
+    "code": "4101",
+    "title": "VERGİ BARIŞI MATRAH ARTIRIMI YILLIK GELİR VERGİSİ",
+    "description": "Vergi barışı matrah artırımı yıllık gelir vergisi, vergi barışı kapsamında yıllık gelir vergisi matrahının artırılması işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait gelir vergisi matrahlarını artırarak vergi barışından yararlanmalarını sağlar. Vergi barışı matrah artırımı, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4103",
+    "title": "VERGİ BARIŞI MATRAH ARTIRIMI GELİR VERGİSİ S. (MUHTASAR)",
+    "description": "Vergi barışı matrah artırımı gelir vergisi stopajı (muhtasar), vergi barışı kapsamında gelir vergisi stopajı matrahının artırılması işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait gelir vergisi stopajı matrahlarını artırarak vergi barışından yararlanmalarını sağlar. Vergi barışı matrah artırımı, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4107",
+    "title": "VERGİ BARIŞI MATRAH ARTIRIMI DAĞITILMAYAN KAR STOPAJI",
+    "description": "Vergi barışı matrah artırımı dağıtılmayan kar stopajı, vergi barışı kapsamında dağıtılmayan kar stopajı matrahının artırılması işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait dağıtılmayan kar stopajı matrahlarını artırarak vergi barışından yararlanmalarını sağlar. Vergi barışı matrah artırımı, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4110",
+    "title": "VERGİ BARIŞI MATRAH ARTIRIMI KURUMLAR VERGİSİ",
+    "description": "Vergi barışı matrah artırımı kurumlar vergisi, vergi barışı kapsamında kurumlar vergisi matrahının artırılması işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait kurumlar vergisi matrahlarını artırarak vergi barışından yararlanmalarını sağlar. Vergi barışı matrah artırımı, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4112",
+    "title": "VERGİ BARIŞI MATRAH ARTIRIMI GELİR VERGİSİ (GMSİ)",
+    "description": "Vergi barışı matrah artırımı gelir vergisi (GMSİ), vergi barışı kapsamında gayrimenkul sermaye iratları matrahının artırılması işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait gayrimenkul sermaye iratları matrahlarını artırarak vergi barışından yararlanmalarını sağlar. Vergi barışı matrah artırımı, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4114",
+    "title": "VERGİ BARIŞI MATRAH ARTIRIMI BASIT USULDE TİCARİ KAZANC",
+    "description": "Vergi barışı matrah artırımı basit usulde ticari kazanç, vergi barışı kapsamında basit usulde ticari kazanç matrahının artırılması işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait basit usulde ticari kazanç matrahlarını artırarak vergi barışından yararlanmalarını sağlar. Vergi barışı matrah artırımı, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4115",
+    "title": "VERGİ BARIŞI MATRAH ARTIRIMI GERÇEK USULDE KATMA DEĞER VERGİSİ",
+    "description": "Vergi barışı matrah artırımı gerçek usulde katma değer vergisi, vergi barışı kapsamında gerçek usulde katma değer vergisi matrahının artırılması işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait gerçek usulde katma değer vergisi matrahlarını artırarak vergi barışından yararlanmalarını sağlar. Vergi barışı matrah artırımı, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4121",
+    "title": "VERGİ BARIŞI KESİNLEŞEN KAMU ALACAKLARI 2. MADDE 1/AB",
+    "description": "Vergi barışı kesinleşen kamu alacakları 2. madde 1/AB, vergi barışı kapsamında kesinleşmiş kamu alacaklarının tahsil edilmesi işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait kesinleşmiş kamu alacaklarını ödeyerek vergi barışından yararlanmalarını sağlar. Vergi barışı kesinleşen kamu alacakları, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4122",
+    "title": "VERGİ BARIŞI KESİNLEŞEN KAMU ALACAKLARI 2. MADDE 1/C",
+    "description": "Vergi barışı kesinleşen kamu alacakları 2. madde 1/C, vergi barışı kapsamında kesinleşmiş kamu alacaklarının tahsil edilmesi işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait kesinleşmiş kamu alacaklarını ödeyerek vergi barışından yararlanmalarını sağlar. Vergi barışı kesinleşen kamu alacakları, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4123",
+    "title": "VERGİ BARIŞI KESİNLEŞEN KAMU ALACAKLARI 2. MADDE/6 MTV",
+    "description": "Vergi barışı kesinleşen kamu alacakları 2. madde/6 MTV, vergi barışı kapsamında kesinleşmiş motorlu taşıtlar vergisi alacaklarının tahsil edilmesi işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait motorlu taşıtlar vergisi alacaklarını ödeyerek vergi barışından yararlanmalarını sağlar. Vergi barışı kesinleşen kamu alacakları, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4124",
+    "title": "VERGİ BARIŞI KESİNLEŞMEYEN KAMU ALACAKLARI 3. MADDE",
+    "description": "Vergi barışı kesinleşmeyen kamu alacakları 3. madde, vergi barışı kapsamında kesinleşmemiş kamu alacaklarının tahsil edilmesi işlemidir. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait kesinleşmemiş kamu alacaklarını ödeyerek vergi barışından yararlanmalarını sağlar. Vergi barışı kesinleşmeyen kamu alacakları, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4125",
+    "title": "VERGİ BARIŞI İNCELEME VE TARHİYAT 5.MADDE",
+    "description": "Vergi barışı inceleme ve tarhiyat 5. madde, vergi barışı kapsamında yapılan inceleme ve tarhiyat işlemlerinin sonuçlandırılmasıdır. Bu vergi, vergi mükelleflerinin geçmiş yıllara ait vergi incelemeleri ve tarhiyat işlemlerini tamamlayarak vergi barışından yararlanmalarını sağlar. Vergi barışı inceleme ve tarhiyat, devletin vergi gelirlerini artırmak ve vergi mükelleflerinin geçmiş dönem borçlarını yapılandırmak amacıyla yapılır."
+  },
+  {
+    "code": "4126",
+    "title": "VERGİ BARIŞI PİŞMANLIK 6.MADDE 1/AB",
+    "description": "Vergi barışı pişmanlık 6. madde 1/AB, vergi mükelleflerinin geçmiş dönem vergi borçlarını pişmanlıkla beyan ederek ödemelerini sağlayan bir düzenlemedir. Bu düzenleme, vergi mükelleflerinin geçmişte beyan etmedikleri veya eksik beyan ettikleri vergi borçlarını pişmanlıkla beyan etmeleri durumunda, ceza ve faiz indirimlerinden yararlanmalarını sağlar. Vergi barışı pişmanlık düzenlemesi, vergi mükelleflerinin vergi borçlarını yapılandırarak ödemelerini kolaylaştırmak ve devletin vergi gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "4127",
+    "title": "VERGİ BARIŞI PİŞMANLIK 6.MADDE 1/DİĞER HÜKÜMLER",
+    "description": "Vergi barışı pişmanlık 6. madde 1/diğer hükümler, vergi mükelleflerinin geçmiş dönem vergi borçlarını pişmanlıkla beyan ederek ödemelerini sağlayan bir düzenlemedir. Bu düzenleme, vergi mükelleflerinin geçmişte beyan etmedikleri veya eksik beyan ettikleri vergi borçlarını pişmanlıkla beyan etmeleri durumunda, ceza ve faiz indirimlerinden yararlanmalarını sağlar. Vergi barışı pişmanlık düzenlemesi, vergi mükelleflerinin vergi borçlarını yapılandırarak ödemelerini kolaylaştırmak ve devletin vergi gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "4128",
+    "title": "VERGİ BARIŞI ECRİMİSİL 15.MADDE",
+    "description": "Vergi barışı ecrimisil 15. madde, hazineye ait taşınmaz malların izinsiz kullanımı sonucu tahsil edilen ecrimisil bedellerinin yapılandırılmasını sağlayan bir düzenlemedir. Bu düzenleme, taşınmaz malları izinsiz kullanan kişilerin geçmiş dönem ecrimisil borçlarını yapılandırarak ödemelerini kolaylaştırır. Vergi barışı ecrimisil düzenlemesi, devletin ecrimisil gelirlerini artırmak ve taşınmaz malların izinsiz kullanımını önlemek amacıyla yapılır."
+  },
+  {
+    "code": "4130",
+    "title": "VERGİ BARIŞI KIYMETLİ MADEN VE ZİYNET EŞYASI BEYANI",
+    "description": "Vergi barışı kıymetli maden ve ziynet eşyası beyanı, vergi mükelleflerinin sahip oldukları kıymetli madenler ve ziynet eşyalarını beyan ederek vergi barışından yararlanmalarını sağlayan bir düzenlemedir. Bu düzenleme, vergi mükelleflerinin sahip oldukları kıymetli madenler ve ziynet eşyalarını beyan etmeleri durumunda, ceza ve faiz indirimlerinden yararlanmalarını sağlar. Vergi barışı kıymetli maden ve ziynet eşyası beyanı, vergi mükelleflerinin vergi borçlarını yapılandırarak ödemelerini kolaylaştırmak ve devletin vergi gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "4140",
+    "title": "6183 B/4 TAHSİLAT GENEL TEBLİĞİ TAHSİLATI",
+    "description": "6183 B/4 tahsilat genel tebliği tahsilatı, vergi mükelleflerinin vergi borçlarını tahsil etmek amacıyla yapılan düzenlemeleri kapsar. Bu düzenleme, vergi mükelleflerinin vergi borçlarını ödemelerini kolaylaştırmak ve devletin vergi gelirlerini artırmak amacıyla yapılır. 6183 sayılı kanun kapsamında yapılan tahsilat işlemleri, vergi mükelleflerinin borçlarını yapılandırarak ödemelerini sağlar."
+  },
+  {
+    "code": "5015",
+    "title": "E-BEYANNAME B FORMU",
+    "description": "E-beyanname B formu, vergi mükelleflerinin elektronik ortamda beyanname vermelerini sağlayan bir düzenlemedir. Bu düzenleme, vergi mükelleflerinin vergi beyannamelerini elektronik ortamda doldurarak vergi dairelerine göndermelerini kolaylaştırır. E-beyanname B formu, vergi mükelleflerinin vergi beyannamelerini hızlı ve güvenli bir şekilde vermelerini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "5030",
+    "title": "G.V.K. GEÇİCİ 67. MADDESİNE GÖRE YAPILAN TEVKİFAT EK2 EK3",
+    "description": "Gelir Vergisi Kanunu geçici 67. maddesine göre yapılan tevkifat EK2 EK3, belirli gelirler üzerinden yapılan kesintilerdir. Bu kesintiler, gelirlerin elde edilmesi sırasında hesaplanır ve vergi mükelleflerinin vergi borçlarını ödemelerini sağlar. Gelir Vergisi Kanunu geçici 67. maddesi kapsamında yapılan tevkifat işlemleri, vergi mükelleflerinin vergi borçlarını düzenli bir şekilde ödemelerini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "5569",
+    "title": "5569 SAYILI KANUN UYARINCA KOBİ TECİLLİ TAHSİLAT",
+    "description": "5569 sayılı kanun uyarınca KOBİ tecilli tahsilat, küçük ve orta ölçekli işletmelerin (KOBİ) vergi borçlarının ertelenmesi ve tahsil edilmesi işlemlerini kapsar. Bu düzenleme, KOBİ'lerin vergi borçlarını belirli bir süre için erteleyerek ödemelerini kolaylaştırır. 5569 sayılı kanun kapsamında yapılan tecilli tahsilat işlemleri, KOBİ'lerin mali yükümlülüklerini dengelemek ve devletin vergi gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "9000",
+    "title": "İDARİ PARA CEZASI (4703 SK)",
+    "description": "İdari para cezası (4703 sayılı kanun), belirli kurallara uymayan kişilere uygulanan para cezalarını kapsar. Bu düzenleme, 4703 sayılı kanun kapsamında belirlenen kurallara uymayan kişilere idari para cezası uygulanmasını sağlar. İdari para cezaları, devletin düzenlemelere uyulmasını sağlamak ve kamu düzenini korumak amacıyla yapılır."
+  },
+  {
+    "code": "9001",
+    "title": "EMANETEN YAPILAN TAHSİLAT",
+    "description": "Emaneten yapılan tahsilat, vergi mükelleflerinin geçici olarak vergi dairelerine yatırdıkları paraları kapsar. Bu düzenleme, vergi mükelleflerinin belirli bir süre için vergi dairelerine emanet olarak para yatırmalarını sağlar. Emaneten yapılan tahsilatlar, vergi mükelleflerinin vergi borçlarını düzenli bir şekilde ödemelerini sağlamak ve devletin vergi gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "9002",
+    "title": "NÜFUS PARA CEZASI",
+    "description": "Nüfus para cezası, nüfus kayıtlarına ilişkin kurallara uymayan kişilere uygulanan para cezalarını kapsar. Bu düzenleme, nüfus kayıtlarına ilişkin kurallara uymayan kişilere idari para cezası uygulanmasını sağlar. Nüfus para cezaları, devletin nüfus kayıtlarının düzenli ve doğru bir şekilde tutulmasını sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9003",
+    "title": "SEÇİM PARA CEZASI",
+    "description": "Seçim para cezası, seçim kurallarına uymayan kişilere uygulanan para cezalarını kapsar. Bu düzenleme, seçim kurallarına uymayan kişilere idari para cezası uygulanmasını sağlar. Seçim para cezaları, devletin seçimlerin düzenli ve adil bir şekilde yapılmasını sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9004",
+    "title": "ASKERLİK PARA CEZASI",
+    "description": "Askerlik para cezası, askerlik hizmetine ilişkin kurallara uymayan kişilere uygulanan para cezalarını kapsar. Bu düzenleme, askerlik hizmetine ilişkin kurallara uymayan kişilere idari para cezası uygulanmasını sağlar. Askerlik para cezaları, devletin askerlik hizmetinin düzenli ve disiplinli bir şekilde yürütülmesini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9005",
+    "title": "ADLİ MAHKEME PARA CEZASI",
+    "description": "Adli mahkeme para cezası, adli mahkemeler tarafından verilen para cezalarını kapsar. Bu düzenleme, adli mahkemeler tarafından belirlenen kurallara uymayan kişilere para cezası uygulanmasını sağlar. Adli mahkeme para cezaları, devletin adalet sisteminin düzenli ve adil bir şekilde işlemesini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9006",
+    "title": "1475 SAYILI İŞ KANUNUNA BAĞLI PARA CEZASI",
+    "description": "1475 sayılı iş kanununa bağlı para cezası, iş kanununa uymayan işverenlere ve çalışanlara uygulanan para cezalarını kapsar. Bu düzenleme, 1475 sayılı iş kanunu kapsamında belirlenen kurallara uymayan işverenlere ve çalışanlara idari para cezası uygulanmasını sağlar. İş kanununa bağlı para cezaları, devletin işçi haklarını korumak ve iş yerlerinde düzeni sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9007",
+    "title": "3516 SAYILI KANUNA GÖRE ÖLÇÜ AYAR PARA CEZASI",
+    "description": "3516 sayılı kanuna göre ölçü ayar para cezası, ölçü ve tartı aletlerine ilişkin kurallara uymayan kişilere uygulanan para cezalarını kapsar. Bu düzenleme, 3516 sayılı kanun kapsamında belirlenen kurallara uymayan kişilere idari para cezası uygulanmasını sağlar. Ölçü ayar para cezaları, devletin ölçü ve tartı aletlerinin doğru ve güvenilir bir şekilde kullanılmasını sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9008",
+    "title": "TRAFİK ZABITASI TESPİTİNE DAYALI ÖZEL USULSÜZLÜK CEZASI",
+    "description": "Trafik zabıtası tespitine dayalı özel usulsüzlük cezası, trafik kurallarına uymayan sürücülere uygulanan para cezalarını kapsar. Bu düzenleme, trafik zabıtası tarafından tespit edilen usulsüzlükler sonucunda sürücülere idari para cezası uygulanmasını sağlar. Trafik zabıtası tespitine dayalı özel usulsüzlük cezaları, devletin trafik düzenini sağlamak ve trafik kazalarını önlemek amacıyla yapılır."
+  },
+  {
+    "code": "9009",
+    "title": "TURİZM PARA CEZASI",
+    "description": "Turizm para cezası, turizm sektörüne ilişkin kurallara uymayan işletmelere ve kişilere uygulanan para cezalarını kapsar. Bu düzenleme, turizm sektörüne ilişkin kurallara uymayan işletmelere ve kişilere idari para cezası uygulanmasını sağlar. Turizm para cezaları, devletin turizm sektörünün düzenli ve güvenli bir şekilde işlemesini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9010",
+    "title": "TÜKETİCİYİ KORUMA KANUNUNA GÖRE KESİLEN PARA CEZASI",
+    "description": "Tüketiciyi koruma kanununa göre kesilen para cezası, tüketici haklarına ilişkin kurallara uymayan işletmelere ve kişilere uygulanan para cezalarını kapsar. Bu düzenleme, tüketici haklarına ilişkin kurallara uymayan işletmelere ve kişilere idari para cezası uygulanmasını sağlar. Tüketiciyi koruma kanununa göre kesilen para cezaları, devletin tüketici haklarını korumak ve adil ticaretin sağlanması amacıyla yapılır."
+  },
+  {
+    "code": "9011",
+    "title": "ÇEVRE KİRLİLİĞİ PARA CEZASI",
+    "description": "Çevre kirliliği para cezası, çevre koruma kurallarına uymayan işletmelere ve kişilere uygulanan para cezalarını kapsar. Bu düzenleme, çevre koruma kurallarına uymayan işletmelere ve kişilere idari para cezası uygulanmasını sağlar. Çevre kirliliği para cezaları, devletin çevreyi korumak ve çevre kirliliğini önlemek amacıyla yapılır."
+  },
+  {
+    "code": "9012",
+    "title": "ESNAF S.HARÇ",
+    "description": "Esnaf s.harç, esnaf ve sanatkarların belirli işlemleri sırasında ödedikleri harçları kapsar. Bu düzenleme, esnaf ve sanatkarların belirli işlemleri sırasında ödedikleri harçların tahsil edilmesini sağlar. Esnaf s.harç, devletin esnaf ve sanatkarların faaliyetlerini düzenlemek ve gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "9013",
+    "title": "GÜMRÜK VERGİSİ",
+    "description": "Gümrük vergisi, ithalat ve ihracat işlemleri sırasında alınan vergileri kapsar. Bu düzenleme, ithalat ve ihracat işlemleri sırasında alınan vergilerin tahsil edilmesini sağlar. Gümrük vergisi, devletin dış ticareti düzenlemek ve gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "9014",
+    "title": "Yurt Dışı Çıkış Harcı",
+    "description": "Yurt dışı çıkış harcı, yurt dışına çıkış yapan kişilerin ödedikleri harçları kapsar. Bu düzenleme, yurt dışına çıkış yapan kişilerin ödedikleri harçların tahsil edilmesini sağlar. Yurt dışı çıkış harcı, devletin yurt dışı çıkışlarını düzenlemek ve gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "9015",
+    "title": "KATMA DEĞER VERGİSİ TEVKİFATI",
+    "description": "Katma değer vergisi tevkifatı, belirli işlemler üzerinden yapılan kesintileri kapsar. Bu düzenleme, belirli işlemler üzerinden yapılan kesintilerin tahsil edilmesini sağlar. Katma değer vergisi tevkifatı, devletin vergi gelirlerini düzenli bir şekilde toplamak ve mali disiplini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9016",
+    "title": "BİLİRKİŞİ ÜCRETİ",
+    "description": "Bilirkişi ücreti, bilirkişilik hizmetleri karşılığında ödenen ücretleri kapsar. Bu düzenleme, bilirkişilik hizmetleri karşılığında ödenen ücretlerin tahsil edilmesini sağlar. Bilirkişi ücreti, devletin adalet sisteminin düzenli ve adil bir şekilde işlemesini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9017",
+    "title": "TÜRK ULUSLARARASI GEMİ SİCİL KAYIT HARCI",
+    "description": "Türk uluslararası gemi sicil kayıt harcı, gemilerin uluslararası sicile kaydedilmesi sırasında ödenen harçları kapsar. Bu düzenleme, gemilerin uluslararası sicile kaydedilmesi sırasında ödenen harçların tahsil edilmesini sağlar. Türk uluslararası gemi sicil kayıt harcı, devletin denizcilik sektörünü düzenlemek ve gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "9018",
+    "title": "YILLIK TONAJ HARCI",
+    "description": "Yıllık tonaj harcı, gemilerin yıllık tonajları üzerinden alınan harçları kapsar. Bu düzenleme, gemilerin yıllık tonajları üzerinden alınan harçların tahsil edilmesini sağlar. Yıllık tonaj harcı, devletin denizcilik sektörünü düzenlemek ve gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "9019",
+    "title": "ELEKTRİK PİYASASI KANUNU PARA CEZASI",
+    "description": "Elektrik piyasası kanunu para cezası, elektrik piyasasına ilişkin kurallara uymayan işletmelere ve kişilere uygulanan para cezalarını kapsar. Bu düzenleme, elektrik piyasasına ilişkin kurallara uymayan işletmelere ve kişilere idari para cezası uygulanmasını sağlar. Elektrik piyasası kanunu para cezaları, devletin elektrik piyasasını düzenlemek ve kamu düzenini korumak amacıyla yapılır."
+  },
+  {
+    "code": "9020",
+    "title": "MÜKELLEFLERİN VERGİ BORCUNA MAHSUBEN YAPILAN TEVKİFATLAR",
+    "description": "Mükelleflerin vergi borcuna mahsuben yapılan tevkifatlar, vergi mükelleflerinin vergi borçlarına karşılık yapılan kesintileri kapsar. Bu düzenleme, vergi mükelleflerinin vergi borçlarına karşılık yapılan kesintilerin tahsil edilmesini sağlar. Mükelleflerin vergi borcuna mahsuben yapılan tevkifatlar, devletin vergi gelirlerini düzenli bir şekilde toplamak ve mali disiplini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9021",
+    "title": "4961 BANKA SİGORTA MUAMELELERİ VERGİSİ",
+    "description": "4961 banka sigorta muameleleri vergisi, banka ve sigorta işlemleri üzerinden alınan vergileri kapsar. Bu düzenleme, banka ve sigorta işlemleri üzerinden alınan vergilerin tahsil edilmesini sağlar. 4961 banka sigorta muameleleri vergisi, devletin finansal sektörü düzenlemek ve gelirlerini artırmak amacıyla yapılır."
+  },
+  {
+    "code": "9022",
+    "title": "KUR FARKI HESABI",
+    "description": "Kur farkı hesabı, döviz kurlarındaki değişiklikler nedeniyle oluşan farkların hesaplanmasını kapsar. Bu düzenleme, döviz kurlarındaki değişiklikler nedeniyle oluşan farkların hesaplanmasını ve tahsil edilmesini sağlar. Kur farkı hesabı, devletin döviz kurlarını düzenlemek ve mali disiplini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9023",
+    "title": "YÜKSEK ÖĞRENİM KREDİ BORCU HESABI",
+    "description": "Yüksek öğrenim kredi borcu hesabı, yüksek öğrenim gören öğrencilerin kredi borçlarının hesaplanmasını kapsar. Bu düzenleme, yüksek öğrenim gören öğrencilerin kredi borçlarının hesaplanmasını ve tahsil edilmesini sağlar. Yüksek öğrenim kredi borcu hesabı, devletin eğitim sektörünü desteklemek ve mali disiplini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9024",
+    "title": "KAYNAK KULLANIMI DESTEKLEME PRİMİ HESABI",
+    "description": "Kaynak kullanımı destekleme primi hesabı, belirli kaynakların kullanımını desteklemek amacıyla verilen primlerin hesaplanmasını kapsar. Bu düzenleme, belirli kaynakların kullanımını desteklemek amacıyla verilen primlerin hesaplanmasını ve tahsil edilmesini sağlar. Kaynak kullanımı destekleme primi hesabı, devletin kaynak kullanımını düzenlemek ve mali disiplini sağlamak amacıyla yapılır."
+  },
+  {
+    "code": "9025",
+    "title": "İHRACATTA VERGİ İADESİ HESABI",
+    "description": "İhracatta vergi iadesi hesabı, ihracat işlemleri sırasında ödenen vergilerin iadesini kapsar. Bu düzenleme, ihracat işlemleri sırasında ödenen vergilerin iadesini sağlar. İhracatta vergi iadesi hesabı, devletin ihracatı teşvik etmek ve dış ticareti düzenlemek amacıyla yapılır."
+  },
+  {
+    "code": "9026",
+    "title": "GELİŞTİRME VE DESTEKLEME FONU HESABI",
+    "description": "Geliştirme ve Destekleme Fonu Hesabı, belirli projelerin geliştirilmesi ve desteklenmesi amacıyla oluşturulan fonları kapsar. Bu düzenleme, projelerin finansmanını sağlamak ve ekonomik kalkınmayı desteklemek amacıyla yapılır. Geliştirme ve Destekleme Fonu Hesabı, devletin ekonomik ve sosyal projeleri finanse etmesine olanak tanır."
+  },
+  {
+    "code": "9027",
+    "title": "ÇALIŞMA İZİN HARCI",
+    "description": "Çalışma İzin Harcı, yabancı uyruklu kişilerin Türkiye'de çalışabilmeleri için ödemeleri gereken harçları kapsar. Bu düzenleme, yabancı iş gücünün yasal olarak çalışmasını sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Çalışma İzin Harcı, yabancı çalışanların kayıt altına alınmasını ve iş piyasasının düzenlenmesini sağlar."
+  },
+  {
+    "code": "9028",
+    "title": "DESTEKLEME VE FİYAT İSTİKRAR FONU HESABI",
+    "description": "Destekleme ve Fiyat İstikrar Fonu Hesabı, belirli ürünlerin fiyat istikrarını sağlamak ve üreticilere destek vermek amacıyla oluşturulan fonları kapsar. Bu düzenleme, tarım ve hayvancılık sektörlerinde fiyat dalgalanmalarını önlemek ve üreticilerin gelirlerini korumak amacıyla yapılır. Destekleme ve Fiyat İstikrar Fonu Hesabı, devletin ekonomik istikrarı sağlamasına yardımcı olur."
+  },
+  {
+    "code": "9029",
+    "title": "DİPLOMA HARCI",
+    "description": "Diploma Harcı, eğitim kurumlarından mezun olan öğrencilerin diplomalarını alabilmeleri için ödemeleri gereken harçları kapsar. Bu düzenleme, eğitim kurumlarının finansmanını desteklemek ve devletin eğitim sektöründeki gelirlerini artırmak amacıyla yapılır. Diploma Harcı, mezuniyet işlemlerinin düzenli ve hızlı bir şekilde yürütülmesini sağlar."
+  },
+  {
+    "code": "9030",
+    "title": "EK MOTORLU TAŞITLAR VERGİSİ",
+    "description": "Ek Motorlu Taşıtlar Vergisi, motorlu taşıt sahiplerinin ödemesi gereken ek vergileri kapsar. Bu düzenleme, motorlu taşıtların kullanımını düzenlemek ve devletin ulaşım sektöründeki gelirlerini artırmak amacıyla yapılır. Ek Motorlu Taşıtlar Vergisi, trafik yoğunluğunu azaltmak ve çevre kirliliğini önlemek amacıyla da uygulanır."
+  },
+  {
+    "code": "9031",
+    "title": "VERASET VE İNTİKAL VERGİSİ",
+    "description": "Veraset ve İntikal Vergisi, miras yoluyla veya bağış yoluyla elde edilen mal ve haklar üzerinden alınan vergileri kapsar. Bu düzenleme, miras ve bağış işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Veraset ve İntikal Vergisi, mülkiyetin el değiştirmesi sürecinde adil bir vergi sistemi oluşturur."
+  },
+  {
+    "code": "9032",
+    "title": "EK TAŞIT ALIM VERGİSİ",
+    "description": "Ek Taşıt Alım Vergisi, yeni taşıt alımlarında ödenmesi gereken ek vergileri kapsar. Bu düzenleme, taşıt alım işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Ek Taşıt Alım Vergisi, taşıt sahiplerinin vergi yükümlülüklerini yerine getirmesini sağlar."
+  },
+  {
+    "code": "9033",
+    "title": "TADPK İDARİ PARA CEZASI",
+    "description": "TADPK İdari Para Cezası, Tütün, Tütün Mamulleri ve Alkol Piyasası Düzenleme Kurumu tarafından belirlenen kurallara uymayan işletmelere uygulanan para cezalarını kapsar. Bu düzenleme, tütün ve alkol piyasasının düzenlenmesi ve kamu sağlığının korunması amacıyla yapılır. TADPK İdari Para Cezası, piyasa düzenlemelerine uyulmasını sağlar."
+  },
+  {
+    "code": "9034",
+    "title": "MOTORLU TAŞITLAR VERGİSİ",
+    "description": "Motorlu Taşıtlar Vergisi, motorlu taşıt sahiplerinin her yıl ödemesi gereken vergileri kapsar. Bu düzenleme, motorlu taşıtların kullanımını düzenlemek ve devletin ulaşım sektöründeki gelirlerini artırmak amacıyla yapılır. Motorlu Taşıtlar Vergisi, trafik yoğunluğunu azaltmak ve çevre kirliliğini önlemek amacıyla da uygulanır."
+  },
+  {
+    "code": "9035",
+    "title": "TAŞIT ALIM VERGİSİ",
+    "description": "Taşıt Alım Vergisi, yeni taşıt alımlarında ödenmesi gereken vergileri kapsar. Bu düzenleme, taşıt alım işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Taşıt Alım Vergisi, taşıt sahiplerinin vergi yükümlülüklerini yerine getirmesini sağlar."
+  },
+  {
+    "code": "9036",
+    "title": "YİYECEK BEDELLERİ",
+    "description": "Yiyecek Bedelleri, kamu kurum ve kuruluşlarında sunulan yiyecek hizmetleri karşılığında ödenen bedelleri kapsar. Bu düzenleme, kamu kurumlarının yiyecek hizmetlerinin finansmanını sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Yiyecek Bedelleri, kamu hizmetlerinin sürdürülebilirliğini destekler."
+  },
+  {
+    "code": "9037",
+    "title": "TEMİNAT O. YAPILAN THS.",
+    "description": "Teminat Olarak Yapılan Tahsilatlar, belirli işlemler için teminat olarak alınan ve daha sonra tahsil edilen bedelleri kapsar. Bu düzenleme, işlemlerin güvenliğini sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Teminat Olarak Yapılan Tahsilatlar, işlemlerin düzenli ve güvenli bir şekilde yürütülmesini sağlar."
+  },
+  {
+    "code": "9038",
+    "title": "İADELERDEN ALACAKLILAR",
+    "description": "İadelerden Alacaklılar, belirli işlemler sonucunda yapılan iadelerden doğan alacakları kapsar. Bu düzenleme, iadelerin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. İadelerden Alacaklılar, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9039",
+    "title": "HESAP KART VE DEFTERLERİNE İŞLENMEYEN TAHSİLATLAR",
+    "description": "Hesap Kart ve Defterlerine İşlenmeyen Tahsilatlar, belirli işlemler sonucunda yapılan ancak hesap kart ve defterlerine işlenmeyen tahsilatları kapsar. Bu düzenleme, tahsilatların yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Hesap Kart ve Defterlerine İşlenmeyen Tahsilatlar, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9040",
+    "title": "MERA FONU",
+    "description": "Mera Fonu, meraların korunması, geliştirilmesi ve sürdürülebilir kullanımı amacıyla oluşturulan fonları kapsar. Bu düzenleme, meraların verimli kullanılmasını sağlamak ve devletin tarım ve hayvancılık sektöründeki gelirlerini artırmak amacıyla yapılır. Mera Fonu, doğal kaynakların korunmasını ve sürdürülebilirliğini destekler."
+  },
+  {
+    "code": "9041",
+    "title": "MERA FONU PARA CEZASI",
+    "description": "Mera Fonu Para Cezası, meraların korunması ve düzenlenmesi amacıyla belirlenen kurallara uymayanlara uygulanan para cezalarını kapsar. Bu düzenleme, meraların sürdürülebilir kullanımını sağlamak ve devletin tarım ve hayvancılık sektöründeki gelirlerini artırmak amacıyla yapılır. Mera Fonu Para Cezası, doğal kaynakların korunmasını ve sürdürülebilirliğini destekler."
+  },
+  {
+    "code": "9042",
+    "title": "MÜLGA TRAFİK HİZMETLERİNİ GELİŞTİRME FONU TİCARİ PLAKA GELİRLERİ",
+    "description": "Mülga Trafik Hizmetlerini Geliştirme Fonu Ticari Plaka Gelirleri, ticari plakaların verilmesi ve yenilenmesi sırasında ödenen bedelleri kapsar. Bu düzenleme, trafik hizmetlerinin geliştirilmesini sağlamak ve devletin ulaşım sektöründeki gelirlerini artırmak amacıyla yapılır. Mülga Trafik Hizmetlerini Geliştirme Fonu Ticari Plaka Gelirleri, trafik düzenlemelerinin ve hizmetlerinin iyileştirilmesini destekler."
+  },
+  {
+    "code": "9043",
+    "title": "MÜLGA YATIRIM TEŞVİK FONU",
+    "description": "Mülga Yatırım Teşvik Fonu, belirli yatırımların teşvik edilmesi amacıyla oluşturulan ve daha sonra kaldırılan fonları kapsar. Bu düzenleme, yatırımların finansmanını sağlamak ve ekonomik kalkınmayı desteklemek amacıyla yapılır. Mülga Yatırım Teşvik Fonu, devletin ekonomik ve sosyal projeleri finanse etmesine olanak tanır."
+  },
+  {
+    "code": "9044",
+    "title": "4961 S.K. GEÇİCİ 2. MAD. 3.FIKRASINA GÖRE TAHSILAT",
+    "description": "4961 Sayılı Kanun Geçici 2. Madde 3. Fıkrasına Göre Tahsilat, belirli kanun ve düzenlemeler çerçevesinde yapılan tahsilatları kapsar. Bu düzenleme, yasal yükümlülüklerin yerine getirilmesini sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. 4961 Sayılı Kanun Geçici 2. Madde 3. Fıkrasına Göre Tahsilat, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9045",
+    "title": "TAHSİLATI HIZLANDIRMA TEBLİĞİNE GÖRE VERİLEN TAHAKKUK",
+    "description": "Tahsilatı Hızlandırma Tebliğine Göre Verilen Tahakkuk, belirli tebliğler çerçevesinde yapılan tahakkukları kapsar. Bu düzenleme, tahsilat süreçlerinin hızlandırılmasını sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Tahsilatı Hızlandırma Tebliğine Göre Verilen Tahakkuk, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9046",
+    "title": "ÖZEL HESAP GELİRLERİ",
+    "description": "Özel Hesap Gelirleri, belirli özel hesaplar üzerinden elde edilen gelirleri kapsar. Bu düzenleme, özel hesapların finansmanını sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Özel Hesap Gelirleri, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9047",
+    "title": "TEK BAŞINA ALINABİLEN DAMGA VERGİSİ",
+    "description": "Tek Başına Alınabilen Damga Vergisi, belirli belgeler üzerinden alınan ve tek başına tahsil edilebilen damga vergilerini kapsar. Bu düzenleme, belgelerin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Tek Başına Alınabilen Damga Vergisi, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9048",
+    "title": "5035 SAYILI KANUNA GÖRE HARÇ",
+    "description": "5035 Sayılı Kanuna Göre Harç, belirli kanun ve düzenlemeler çerçevesinde ödenmesi gereken harçları kapsar. Bu düzenleme, yasal yükümlülüklerin yerine getirilmesini sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. 5035 Sayılı Kanuna Göre Harç, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9049",
+    "title": "4749 KAMU FINANS BORC YÖN. DÜZEN. HAK. KANUN HAZİNE ALACAKLARI",
+    "description": "4749 Kamu Finans Borç Yönetimi Düzenlemeleri Hakkında Kanun Hazine Alacakları, belirli kanun ve düzenlemeler çerçevesinde hazineye olan borçları kapsar. Bu düzenleme, kamu finansmanının düzenlenmesini sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. 4749 Kamu Finans Borç Yönetimi Düzenlemeleri Hakkında Kanun Hazine Alacakları, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9050",
+    "title": "KARAYOLLARI TAŞIMA KANUNU İDARİ PARA CEZASI",
+    "description": "Karayolları Taşıma Kanunu İdari Para Cezası, karayolu taşımacılığına ilişkin kurallara uymayan işletmelere ve kişilere uygulanan para cezalarını kapsar. Bu düzenleme, karayolu taşımacılığının düzenlenmesini sağlamak ve devletin ulaşım sektöründeki gelirlerini artırmak amacıyla yapılır. Karayolları Taşıma Kanunu İdari Para Cezası, trafik güvenliğini ve düzenini sağlar."
+  },
+  {
+    "code": "9051",
+    "title": "DIŞ SEYAHAT HARCAMALARI VERGİSİ",
+    "description": "Dış Seyahat Harcamaları Vergisi, yurt dışına yapılan seyahatler sırasında yapılan harcamalar üzerinden alınan vergileri kapsar. Bu düzenleme, yurt dışı seyahatlerin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Dış Seyahat Harcamaları Vergisi, seyahat harcamalarının düzenlenmesini sağlar."
+  },
+  {
+    "code": "9052",
+    "title": "TAŞINMAZ MALLAR SATIŞ GELİRLERİ",
+    "description": "Taşınmaz Mallar Satış Gelirleri, devletin mülkiyetinde bulunan taşınmaz malların satışı sonucunda elde edilen gelirleri kapsar. Bu düzenleme, taşınmaz malların değerlendirilmesini sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Taşınmaz Mallar Satış Gelirleri, kamu mallarının etkin ve verimli kullanılmasını sağlar."
+  },
+  {
+    "code": "9053",
+    "title": "ECRİMİSİL GELİRLERİ",
+    "description": "Ecrimisil Gelirleri, devletin mülkiyetinde bulunan taşınmaz malların izinsiz kullanımı sonucunda tahsil edilen bedelleri kapsar. Bu düzenleme, taşınmaz malların yasal olarak kullanılmasını sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Ecrimisil Gelirleri, kamu mallarının korunmasını ve etkin kullanılmasını sağlar."
+  },
+  {
+    "code": "9054",
+    "title": "DİĞER TAŞINMAZ MALLAR İDARE GELİRLERİ",
+    "description": "Diğer Taşınmaz Mallar İdare Gelirleri, devletin mülkiyetinde bulunan taşınmaz malların yönetimi ve kullanımı sonucunda elde edilen gelirleri kapsar. Bu düzenleme, taşınmaz malların etkin ve verimli kullanılmasını sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Diğer Taşınmaz Mallar İdare Gelirleri, kamu mallarının korunmasını ve değerlendirilmesini sağlar."
+  },
+  {
+    "code": "9055",
+    "title": "TAŞINIR MALLAR SATIŞ GELİRLERİ",
+    "description": "Taşınır Mallar Satış Gelirleri, devletin mülkiyetinde bulunan taşınır malların satışı sonucunda elde edilen gelirleri kapsar. Bu düzenleme, taşınır malların değerlendirilmesini sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Taşınır Mallar Satış Gelirleri, kamu mallarının etkin ve verimli kullanılmasını sağlar."
+  },
+  {
+    "code": "9056",
+    "title": "DOGALGAZ PİYASASI KANUNU PARA CEZASI",
+    "description": "Doğalgaz Piyasası Kanunu Para Cezası, doğalgaz piyasasına ilişkin kurallara uymayan işletmelere ve kişilere uygulanan para cezalarını kapsar. Bu düzenleme, doğalgaz piyasasının düzenlenmesini sağlamak ve devletin enerji sektöründeki gelirlerini artırmak amacıyla yapılır. Doğalgaz Piyasası Kanunu Para Cezası, enerji piyasasının güvenliğini ve düzenini sağlar."
+  },
+  {
+    "code": "9057",
+    "title": "DOĞRUDAN GELİR DESTEĞİ ÖDEMELERİ",
+    "description": "Doğrudan Gelir Desteği Ödemeleri, belirli sektörlerde faaliyet gösteren üreticilere yapılan doğrudan gelir desteği ödemelerini kapsar. Bu düzenleme, üreticilerin gelirlerini desteklemek ve ekonomik kalkınmayı sağlamak amacıyla yapılır. Doğrudan Gelir Desteği Ödemeleri, tarım ve hayvancılık sektörlerinin sürdürülebilirliğini destekler."
+  },
+  {
+    "code": "9058",
+    "title": "PETROLDEN DEVLET HAKKI",
+    "description": "Petrolden Devlet Hakkı, petrol üretimi ve işletmesi sonucunda devletin aldığı payı kapsar. Bu düzenleme, petrol kaynaklarının etkin ve verimli kullanılmasını sağlamak ve devletin enerji sektöründeki gelirlerini artırmak amacıyla yapılır. Petrolden Devlet Hakkı, enerji kaynaklarının korunmasını ve sürdürülebilirliğini destekler."
+  },
+  {
+    "code": "9059",
+    "title": "TİCARET SİCİL HARCI",
+    "description": "Ticaret Sicil Harcı, ticaret siciline kayıtlı işletmelerin ödemesi gereken harçları kapsar. Bu düzenleme, ticaret sicilinin düzenli ve güncel tutulmasını sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Ticaret Sicil Harcı, ticaret faaliyetlerinin yasal olarak kayıt altına alınmasını sağlar."
+  },
+  {
+    "code": "9060",
+    "title": "MADENLERDEN DEVLET HAKKI",
+    "description": "Madenlerden Devlet Hakkı, maden işletmeleri tarafından devletin aldığı payı kapsar. Bu düzenleme, maden kaynaklarının etkin ve verimli kullanılmasını sağlamak ve devletin gelirlerini artırmak amacıyla yapılır. Madenlerden Devlet Hakkı, doğal kaynakların korunmasını ve sürdürülebilirliğini destekler."
+  },
+  {
+    "code": "9061",
+    "title": "OYUN KAĞIDI GELİRLERİ",
+    "description": "Oyun Kağıdı Gelirleri, oyun kağıtlarının satışı ve kullanımı sonucunda elde edilen gelirleri kapsar. Bu düzenleme, oyun kağıtlarının yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Oyun Kağıdı Gelirleri, oyun ve eğlence sektörünün düzenlenmesini sağlar."
+  },
+  {
+    "code": "9062",
+    "title": "TAPU HARÇLARI",
+    "description": "Tapu Harçları, taşınmaz malların tapu işlemleri sırasında ödenmesi gereken harçları kapsar. Bu düzenleme, tapu işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Tapu Harçları, taşınmaz mülkiyetinin düzenli ve güvenli bir şekilde el değiştirmesini sağlar."
+  },
+  {
+    "code": "9063",
+    "title": "YENİDEN İNŞA OLUNACAK BİNA VESAİR TESİSLERİ TESCİL HARCI",
+    "description": "Yeniden İnşa Olunacak Bina ve Sair Tesisleri Tescil Harcı, yeniden inşa edilecek bina ve tesislerin tescili sırasında ödenmesi gereken harçları kapsar. Bu düzenleme, inşaat ve tescil işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Yeniden İnşa Olunacak Bina ve Sair Tesisleri Tescil Harcı, inşaat sektörünün düzenlenmesini sağlar."
+  },
+  {
+    "code": "9064",
+    "title": "PASAPORT VE KONSOLOSLUK HARÇLARI",
+    "description": "Pasaport ve Konsolosluk Harçları, pasaport ve konsolosluk işlemleri sırasında ödenmesi gereken harçları kapsar. Bu düzenleme, pasaport ve konsolosluk işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Pasaport ve Konsolosluk Harçları, yurt dışı seyahatlerin ve konsolosluk hizmetlerinin düzenlenmesini sağlar."
+  },
+  {
+    "code": "9065",
+    "title": "TRAFİK HARÇLARI",
+    "description": "Trafik Harçları, trafik işlemleri sırasında ödenmesi gereken harçları kapsar. Bu düzenleme, trafik işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Trafik Harçları, trafik düzenlemelerinin ve hizmetlerinin iyileştirilmesini sağlar."
+  },
+  {
+    "code": "9066",
+    "title": "YARGI HARÇLARI",
+    "description": "Yargı Harçları, yargı işlemleri sırasında ödenmesi gereken harçları kapsar. Bu düzenleme, yargı işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Yargı Harçları, adalet sisteminin düzenli ve hızlı bir şekilde işlemesini sağlar."
+  },
+  {
+    "code": "9067",
+    "title": "İTHAL VE İMAL RUHSAT VE TEMDİT ÜCRETİ",
+    "description": "İthal ve İmal Ruhsat ve Temdit Ücreti, ithal ve imal işlemleri için alınan ruhsat ve temdit ücretlerini kapsar. Bu düzenleme, ithal ve imal işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. İthal ve İmal Ruhsat ve Temdit Ücreti, ticaret ve sanayi sektörlerinin düzenlenmesini sağlar."
+  },
+  {
+    "code": "9068",
+    "title": "GEMİ VE LİMAN HARÇLARI",
+    "description": "Gemi ve Liman Harçları, gemi ve liman işlemleri sırasında ödenmesi gereken harçları kapsar. Bu düzenleme, gemi ve liman işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Gemi ve Liman Harçları, denizcilik sektörünün düzenlenmesini sağlar."
+  },
+  {
+    "code": "9069",
+    "title": "DİĞER HARÇLAR",
+    "description": "Diğer Harçlar, belirli işlemler sırasında ödenmesi gereken ve diğer kategorilere girmeyen harçları kapsar. Bu düzenleme, işlemlerin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Diğer Harçlar, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9070",
+    "title": "DEĞERLİ KAĞITLAR GELİRLERİ",
+    "description": "Değerli Kağıtlar Gelirleri, değerli kağıtların satışı ve kullanımı sonucunda elde edilen gelirleri kapsar. Bu düzenleme, değerli kağıtların yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Değerli Kağıtlar Gelirleri, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9071",
+    "title": "TAVİZLERDEN GERİ ALINANLAR",
+    "description": "Tavizlerden Geri Alınanlar, belirli işlemler sonucunda verilen tavizlerin geri alınmasıyla elde edilen gelirleri kapsar. Bu düzenleme, tavizlerin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Tavizlerden Geri Alınanlar, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9072",
+    "title": "İKRAZLARDAN GERİ ALINANLAR",
+    "description": "İkrazlardan Geri Alınanlar, belirli işlemler sonucunda verilen ikrazların geri alınmasıyla elde edilen gelirleri kapsar. Bu düzenleme, ikrazların yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. İkrazlardan Geri Alınanlar, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9073",
+    "title": "YEM ANALİZ ÜCRETİ",
+    "description": "Yem Analiz Ücreti, yemlerin analiz edilmesi sırasında ödenmesi gereken ücretleri kapsar. Bu düzenleme, yem analiz işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Yem Analiz Ücreti, tarım ve hayvancılık sektörlerinin düzenlenmesini sağlar."
+  },
+  {
+    "code": "9074",
+    "title": "ŞEKER FİYAT FARKI",
+    "description": "Şeker Fiyat Farkı, şeker üretimi ve satışı sırasında oluşan fiyat farklarını kapsar. Bu düzenleme, şeker piyasasının düzenlenmesini ve devletin gelirlerini artırmak amacıyla yapılır. Şeker Fiyat Farkı, şeker üreticileri ve tüketicileri arasındaki fiyat dengesini sağlar."
+  },
+  {
+    "code": "9075",
+    "title": "AKARYAKIT FİYAT FARKI",
+    "description": "Akaryakıt Fiyat Farkı, akaryakıt ürünlerinin satışı sırasında oluşan fiyat farklarını kapsar. Bu düzenleme, akaryakıt piyasasının düzenlenmesini ve devletin gelirlerini artırmak amacıyla yapılır. Akaryakıt Fiyat Farkı, akaryakıt tedarikçileri ve tüketicileri arasındaki fiyat dengesini sağlar."
+  },
+  {
+    "code": "9076",
+    "title": "BAŞKA MUHASEBE BİRİMİ ADINA YAPILAN TAHSİLAT",
+    "description": "Başka Muhasebe Birimi Adına Yapılan Tahsilat, farklı muhasebe birimleri adına yapılan tahsilatları kapsar. Bu düzenleme, muhasebe işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Başka Muhasebe Birimi Adına Yapılan Tahsilat, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9077",
+    "title": "MOTORLU TAŞIT ARAÇLARINA İLİŞKİN ÖZEL TÜKETİM VERGİSİ (TESCİLE TABİ OLANLAR)",
+    "description": "Motorlu Taşıt Araçlarına İlişkin Özel Tüketim Vergisi, tescile tabi olan motorlu taşıt araçları için ödenmesi gereken özel tüketim vergisini kapsar. Bu düzenleme, motorlu taşıt araçlarının yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Motorlu Taşıt Araçlarına İlişkin Özel Tüketim Vergisi, trafik düzenlemelerinin ve hizmetlerinin iyileştirilmesini sağlar."
+  },
+  {
+    "code": "9078",
+    "title": "GÜBRE DENEY VE ANALİZ ÜCRETİ",
+    "description": "Gübre Deney ve Analiz Ücreti, gübrelerin analiz edilmesi sırasında ödenmesi gereken ücretleri kapsar. Bu düzenleme, gübre analiz işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Gübre Deney ve Analiz Ücreti, tarım sektörünün düzenlenmesini sağlar."
+  },
+  {
+    "code": "9079",
+    "title": "4961 S.K. GEÇİCİ 1. MAD. GÖRE PARA CEZASI",
+    "description": "4961 Sayılı Kanun Geçici 1. Maddeye Göre Para Cezası, bu kanun kapsamında belirlenen geçici maddelere göre uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. 4961 Sayılı Kanun Geçici 1. Maddeye Göre Para Cezası, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9080",
+    "title": "DİĞER PARA CEZALARI",
+    "description": "Diğer Para Cezaları, belirli işlemler sonucunda uygulanan ve diğer kategorilere girmeyen para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Diğer Para Cezaları, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9081",
+    "title": "ZİMMETLERE GEÇİRİLEN PARA VE DEĞERLERDEN BORÇLULAR",
+    "description": "Zimmetlere Geçirilen Para ve Değerlerden Borçlular, zimmete geçirilen para ve değerlerin geri alınmasıyla elde edilen gelirleri kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Zimmetlere Geçirilen Para ve Değerlerden Borçlular, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9082",
+    "title": "FAZLA VE YERSİZ YAPILAN ÖDEMELERDEN BORÇLULAR",
+    "description": "Fazla ve Yersiz Yapılan Ödemelerden Borçlular, fazla veya yersiz yapılan ödemelerin geri alınmasıyla elde edilen gelirleri kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Fazla ve Yersiz Yapılan Ödemelerden Borçlular, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9083",
+    "title": "SOSYAL DAYANIŞMA VE YARDIMLAŞMAYI TEŞVİK FONU",
+    "description": "Sosyal Dayanışma ve Yardımlaşmayı Teşvik Fonu, sosyal dayanışma ve yardımlaşmayı teşvik etmek amacıyla oluşturulan fon gelirlerini kapsar. Bu düzenleme, sosyal yardımlaşma faaliyetlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Sosyal Dayanışma ve Yardımlaşmayı Teşvik Fonu, toplumsal dayanışmayı ve sosyal adaleti sağlar."
+  },
+  {
+    "code": "9084",
+    "title": "İSTİHSAL VERGİSİ",
+    "description": "İstihsal Vergisi, üretim faaliyetleri sırasında ödenmesi gereken vergileri kapsar. Bu düzenleme, üretim işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. İstihsal Vergisi, sanayi ve üretim sektörlerinin düzenlenmesini sağlar."
+  },
+  {
+    "code": "9085",
+    "title": "TRAFİK CEZALARI",
+    "description": "Trafik Cezaları, trafik kurallarının ihlali sonucunda uygulanan para cezalarını kapsar. Bu düzenleme, trafik düzenlemelerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Trafik Cezaları, trafik güvenliğinin ve düzeninin sağlanmasını amaçlar."
+  },
+  {
+    "code": "9086",
+    "title": "HESAPLANAN GECİKME ZAMMI",
+    "description": "Hesaplanan Gecikme Zammı, belirli ödemelerin gecikmesi durumunda uygulanan faiz ve zamları kapsar. Bu düzenleme, ödemelerin zamanında yapılmasını teşvik etmek ve devletin gelirlerini artırmak amacıyla yapılır. Hesaplanan Gecikme Zammı, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9087",
+    "title": "TAKİP GİDERLERİ KARŞILIĞI ALINAN",
+    "description": "Takip Giderleri Karşılığı Alınan, yasal takip işlemleri sırasında oluşan giderlerin karşılanması amacıyla alınan ücretleri kapsar. Bu düzenleme, yasal takip işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Takip Giderleri Karşılığı Alınan, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9088",
+    "title": "ÇIRAKLIK FONU",
+    "description": "Çıraklık Fonu, çıraklık eğitimini desteklemek amacıyla oluşturulan fon gelirlerini kapsar. Bu düzenleme, çıraklık eğitim faaliyetlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Çıraklık Fonu, mesleki eğitimin ve istihdamın desteklenmesini sağlar."
+  },
+  {
+    "code": "9089",
+    "title": "2000/2 SAYILI BKK GEREĞİNCE YATIRIMLARI TEŞVİK FONUNA AKTIRILACAK TUTARLAR",
+    "description": "2000/2 Sayılı Bakanlar Kurulu Kararı Gereğince Yatırımları Teşvik Fonuna Aktarılacak Tutarlar, bu karar kapsamında belirlenen yatırımları teşvik etmek amacıyla fonlara aktarılacak tutarları kapsar. Bu düzenleme, yatırım teşvik işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Yatırımları Teşvik Fonuna Aktarılacak Tutarlar, ekonomik büyümeyi ve kalkınmayı destekler."
+  },
+  {
+    "code": "9090",
+    "title": "ÇEŞİTLİ GELİRLER",
+    "description": "Çeşitli Gelirler, belirli işlemler sonucunda elde edilen ve diğer kategorilere girmeyen gelirleri kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Çeşitli Gelirler, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9091",
+    "title": "PETROLDEN DEVLET HİSSESİ",
+    "description": "Petrolden Devlet Hissesi, petrol üretimi ve satışı sırasında devletin aldığı payı kapsar. Bu düzenleme, petrol işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Petrolden Devlet Hissesi, enerji sektörünün düzenlenmesini sağlar."
+  },
+  {
+    "code": "9092",
+    "title": "YÜKSEK ÖĞRENİM HARÇ KREDİSİ",
+    "description": "Yüksek Öğrenim Harç Kredisi, yüksek öğrenim gören öğrencilere verilen harç kredilerini kapsar. Bu düzenleme, eğitim harcamalarının yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Yüksek Öğrenim Harç Kredisi, eğitim ve öğretim faaliyetlerinin desteklenmesini sağlar."
+  },
+  {
+    "code": "9093",
+    "title": "RESMİ ARABULUCULUK ÜCRETİ",
+    "description": "Resmi Arabuluculuk Ücreti, resmi arabuluculuk hizmetleri sırasında ödenmesi gereken ücretleri kapsar. Bu düzenleme, arabuluculuk işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Resmi Arabuluculuk Ücreti, adalet sisteminin düzenli ve hızlı bir şekilde işlemesini sağlar."
+  },
+  {
+    "code": "9094",
+    "title": "EM.SAN. 17 MAD. GELİRLERİN THK EDİLMEMESİ CEZASI",
+    "description": "Emekli Sandığı 17. Madde Gelirlerinin Tahakkuk Ettirilmemesi Cezası, bu madde kapsamında belirlenen gelirlerin tahakkuk ettirilmemesi durumunda uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Emekli Sandığı 17. Madde Gelirlerinin Tahakkuk Ettirilmemesi Cezası, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9095",
+    "title": "4961 S.K. GEÇİCİ 2. MAD. 1.FIKRAYA GÖRE TAHSİLAT",
+    "description": "4961 Sayılı Kanun Geçici 2. Madde 1. Fıkraya Göre Tahsilat, bu kanun kapsamında belirlenen geçici maddelere göre yapılan tahsilatları kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. 4961 Sayılı Kanun Geçici 2. Madde 1. Fıkraya Göre Tahsilat, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9096",
+    "title": "4369/15 SUÇA İŞTİRAK EDEN KİŞİLER",
+    "description": "4369 Sayılı Kanun 15. Maddeye Göre Suça İştirak Eden Kişiler, bu kanun kapsamında belirlenen suçlara iştirak eden kişilere uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. 4369 Sayılı Kanun 15. Maddeye Göre Suça İştirak Eden Kişiler, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9097",
+    "title": "HAKSIZ ALINAN VERGİ İADESİ",
+    "description": "Haksız Alınan Vergi İadesi, haksız yere alınan vergi iadelerinin geri alınmasıyla elde edilen gelirleri kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Haksız Alınan Vergi İadesi, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9098",
+    "title": "HAKSIZ ALINAN VERGİ İADESİ CEZASI",
+    "description": "Haksız Alınan Vergi İadesi Cezası, haksız yere alınan vergi iadeleri için uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Haksız Alınan Vergi İadesi Cezası, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9099",
+    "title": "KALDIRILAN VERGİ ARTIKLARI",
+    "description": "Kaldırılan Vergi Artıkları, kaldırılan vergilerden kalan artıkları kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Kaldırılan Vergi Artıkları, mali disiplini ve hesap verebilirliği sağlar."
+  },
+  {
+    "code": "9101",
+    "title": "ŞEKER KANUNU İDARİ PARA CEZASI",
+    "description": "Şeker Kanunu İdari Para Cezası, şeker kanunu kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Şeker Kanunu İdari Para Cezası, şeker piyasasının düzenlenmesini sağlar."
+  },
+  {
+    "code": "9102",
+    "title": "GEÇİŞ ÜÇRETİ VE İDARİ PARA CEZASI",
+    "description": "Geçiş Ücreti ve İdari Para Cezası, belirli geçiş noktalarından geçiş sırasında ödenmesi gereken ücretler ve kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, geçiş işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Geçiş Ücreti ve İdari Para Cezası, ulaşım ve trafik düzenlemelerinin iyileştirilmesini sağlar."
+  },
+  {
+    "code": "9103",
+    "title": "5188 SK. GÖRE GÜVENLİK RUHSATI HARCI",
+    "description": "5188 Sayılı Kanuna Göre Güvenlik Ruhsatı Harcı, bu kanun kapsamında belirlenen güvenlik ruhsatları için ödenmesi gereken harçları kapsar. Bu düzenleme, güvenlik ruhsat işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Güvenlik Ruhsatı Harcı, güvenlik sektörünün düzenlenmesini sağlar."
+  },
+  {
+    "code": "9104",
+    "title": "TELGRAF VE TELEFON KANUNU 2. MADDE İDARİ PARA CEZASI",
+    "description": "Telgraf ve Telefon Kanunu 2. Madde İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Telgraf ve Telefon Kanunu 2. Madde İdari Para Cezası, telekomünikasyon sektörünün düzenlenmesini sağlar."
+  },
+  {
+    "code": "9105",
+    "title": "SPOR MÜSABAKALRINDA ŞİDDET VE DÜZENSİZLİĞİN ÖNLENMESİ KAN. UYARINCA İPC",
+    "description": "Spor Müsabakalarında Şiddet ve Düzensizliğin Önlenmesi Kanunu Uyarınca İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Spor Müsabakalarında Şiddet ve Düzensizliğin Önlenmesi Kanunu Uyarınca İdari Para Cezası, spor müsabakalarının güvenli ve düzenli bir şekilde gerçekleştirilmesini sağlar."
+  },
+  {
+    "code": "9106",
+    "title": "4857 S.K. 101. MAD. KAP. İDARİ PARA CEZALARI",
+    "description": "4857 Sayılı Kanun 101. Madde Kapsamında İdari Para Cezaları, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. 4857 Sayılı Kanun 101. Madde Kapsamında İdari Para Cezaları, iş ve çalışma hayatının düzenlenmesini sağlar."
+  },
+  {
+    "code": "9107",
+    "title": "ENERJİ DESTEĞİ ÖDEMELERİNDEN GERİ ALINANLAR",
+    "description": "Enerji Desteği Ödemelerinden Geri Alınanlar, enerji desteği ödemelerinin geri alınmasıyla elde edilen gelirleri kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. Enerji Desteği Ödemelerinden Geri Alınanlar, enerji sektörünün düzenlenmesini sağlar."
+  },
+  {
+    "code": "9108",
+    "title": "4857 SAYILI KANUNA GÖRE GELİR KAYDEDİLECEK PARA CEZALARI",
+    "description": "4857 Sayılı Kanuna Göre Gelir Kaydedilecek Para Cezaları, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. 4857 Sayılı Kanuna Göre Gelir Kaydedilecek Para Cezaları, iş ve çalışma hayatının düzenlenmesini sağlar."
+  },
+  {
+    "code": "9109",
+    "title": "5326 S. KABAHATLER KANUNU İDARİ PARA CEZASI",
+    "description": "5326 Sayılı Kabahatler Kanunu İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, yasal işlemlerin kayıt altına alınmasını ve devletin gelirlerini artırmak amacıyla yapılır. 5326 Sayılı Kabahatler Kanunu İdari Para Cezası, kamu düzeninin ve güvenliğinin sağlanmasını amaçlar."
+  },
+  {
+    "code": "9110",
+    "title": "93/4000 SAYILI YATIRIMLARIN, DÖVİZ. KAZ. HİZ. TEŞVİKİNE İLİŞKİN B.K.K.`NCA HAKSIZ ÖDENEN ENERJİ TEŞVİK GERİ ÖDEMESİ",
+    "description": "93/4000 Sayılı Yatırımların, Döviz Kazandırıcı Hizmetlerin Teşvikine İlişkin Bakanlar Kurulu Kararı'na göre haksız yere ödenen enerji teşviklerinin geri ödenmesini kapsar. Bu düzenleme, teşviklerin doğru ve adil bir şekilde dağıtılmasını ve devletin mali disiplinini sağlamayı amaçlar."
+  },
+  {
+    "code": "9111",
+    "title": "ORKÖY FONU GELİRLERİ",
+    "description": "ORKÖY Fonu Gelirleri, Orman Köylülerini Kalkındırma ve Destekleme Fonu'na aktarılan gelirleri kapsar. Bu düzenleme, orman köylülerinin ekonomik ve sosyal kalkınmasını desteklemeyi ve orman kaynaklarının sürdürülebilir kullanımını sağlamayı amaçlar."
+  },
+  {
+    "code": "9112",
+    "title": "2762 SAYILI KANUNA GÖRE ALINAN TAVİZ BEDELİ",
+    "description": "2762 Sayılı Kanuna Göre Alınan Taviz Bedeli, bu kanun kapsamında belirlenen şartlar doğrultusunda alınan taviz bedellerini kapsar. Bu düzenleme, kamu kaynaklarının etkin ve verimli kullanılmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9113",
+    "title": "GELİR VERGİSİ TEVKİFATI",
+    "description": "Gelir Vergisi Tevkifatı, gelir vergisi mükelleflerinden yapılan kesintileri kapsar. Bu düzenleme, vergi tahsilatının etkin bir şekilde yapılmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9114",
+    "title": "YABANCI ÜLKEDE GÜÇ VE MUHTAÇ DURUMA DÜŞENLERE YURDA DÖNÜŞ İÇİN ÖDÜNÇ VERİLEN PARALAR",
+    "description": "Yabancı Ülkede Güç ve Muhtaç Duruma Düşenlere Yurda Dönüş İçin Ödünç Verilen Paralar, yurtdışında zor durumda kalan vatandaşlara yurda dönüşleri için verilen ödünç paraları kapsar. Bu düzenleme, vatandaşların zor durumlarında devlet tarafından desteklenmesini ve sosyal dayanışmayı sağlamayı amaçlar."
+  },
+  {
+    "code": "9115",
+    "title": "SORUMLU SIFATIYLA VERİLEN KDV.",
+    "description": "Sorumlu Sıfatıyla Verilen KDV, katma değer vergisi mükelleflerinin sorumlu sıfatıyla ödemek zorunda oldukları KDV tutarlarını kapsar. Bu düzenleme, KDV tahsilatının etkin bir şekilde yapılmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9116",
+    "title": "HAZİNE ZARARININ GERİ ALINMASI",
+    "description": "Hazine Zararının Geri Alınması, hazineye verilen zararların tazmin edilmesi amacıyla yapılan geri ödemeleri kapsar. Bu düzenleme, kamu kaynaklarının korunmasını ve mali disiplinin sağlanmasını amaçlar."
+  },
+  {
+    "code": "9117",
+    "title": "EVRENSEL HİZMETİN GELİRLERİ KATKI PAYI",
+    "description": "Evrensel Hizmetin Gelirleri Katkı Payı, evrensel hizmetlerin finansmanına katkı sağlamak amacıyla toplanan gelirleri kapsar. Bu düzenleme, kamu hizmetlerinin herkes için erişilebilir olmasını ve sosyal adaleti sağlamayı amaçlar."
+  },
+  {
+    "code": "9118",
+    "title": "TELEKOMİNİKASYON KURUMU TARAFINDAN YATIRILAN TELGRAF VE TELEFON KANUNU İDARİ PARA CEZALARI",
+    "description": "Telekomünikasyon Kurumu Tarafından Yatırılan Telgraf ve Telefon Kanunu İdari Para Cezaları, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda Telekomünikasyon Kurumu tarafından ödenen para cezalarını kapsar. Bu düzenleme, telekomünikasyon sektörünün düzenlenmesini ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9119",
+    "title": "SİVİL HAVA ARAÇLARI ÜÇÜNCÜ ŞAHIS MALİ MESULİYET DEVLET GARANTİSİ BEDELİ",
+    "description": "Sivil Hava Araçları Üçüncü Şahıs Mali Mesuliyet Devlet Garantisi Bedeli, sivil hava araçlarının üçüncü şahıslara verebileceği zararlar için devlet tarafından sağlanan mali garantiyi kapsar. Bu düzenleme, hava taşımacılığının güvenliğini ve üçüncü şahısların haklarının korunmasını amaçlar."
+  },
+  {
+    "code": "9120",
+    "title": "TELSİZ, TELEFON VE TELGRAF KANUNU İDARİ PARA CEZASI %20 Sİ",
+    "description": "Telsiz, Telefon ve Telgraf Kanunu İdari Para Cezası %20'si, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarının %20'sini kapsar. Bu düzenleme, telekomünikasyon sektörünün düzenlenmesini ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9121",
+    "title": "5015 SAYILI PETROL PİYASASI KANUNU İPC",
+    "description": "5015 Sayılı Petrol Piyasası Kanunu İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, petrol piyasasının düzenlenmesini ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9122",
+    "title": "5307 SAYILI SIVILAŞTIRILMIŞ PETROL GAZLARI PİYASASI KANUNU İPC",
+    "description": "5307 Sayılı Sıvılaştırılmış Petrol Gazları Piyasası Kanunu İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, sıvılaştırılmış petrol gazları piyasasının düzenlenmesini ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9123",
+    "title": "ENERJİ PİYASASI DÜZENLEME KURULUNCA ÖDENEN ANALİZ ÜCRETİNİN GERİ ALINMASI",
+    "description": "Enerji Piyasası Düzenleme Kurulunca Ödenen Analiz Ücretinin Geri Alınması, enerji piyasasında yapılan analizler için ödenen ücretlerin geri alınmasını kapsar. Bu düzenleme, enerji piyasasının düzenlenmesini ve mali disiplinin sağlanmasını amaçlar."
+  },
+  {
+    "code": "9124",
+    "title": "KİŞİLERDEN ALACAK FAİZLERİ",
+    "description": "Kişilerden Alacak Faizleri, devletin kişilerden olan alacaklarına uygulanan faizleri kapsar. Bu düzenleme, kamu alacaklarının tahsilatını hızlandırmayı ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9125",
+    "title": "AĞAÇLANDIRMA FONU YÖNETMELİĞİNE GÖRE VERİLEN KREDİLERDEN GERİ ALINANLAR",
+    "description": "Ağaçlandırma Fonu Yönetmeliğine Göre Verilen Kredilerden Geri Alınanlar, ağaçlandırma projeleri için verilen kredilerin geri ödenmesini kapsar. Bu düzenleme, orman kaynaklarının sürdürülebilir kullanımını ve çevre korumasını sağlamayı amaçlar."
+  },
+  {
+    "code": "9126",
+    "title": "5254 SAYILI KANUNA GÖRE MUHTAÇ ÇİFTÇİLERE VERİLEN ÖDÜNÇ TOHUMLUKLARDAN HAZİNE ALACAĞINA DÖNÜŞENLER",
+    "description": "5254 Sayılı Kanuna Göre Muhtaç Çiftçilere Verilen Ödünç Tohumluklardan Hazine Alacağına Dönüşenler, bu kanun kapsamında muhtaç çiftçilere verilen ödünç tohumlukların geri ödenmemesi durumunda hazine alacağına dönüşen tutarları kapsar. Bu düzenleme, tarım sektörünün desteklenmesini ve mali disiplinin sağlanmasını amaçlar."
+  },
+  {
+    "code": "9127",
+    "title": "2004/5682 SAYILI BKK İLE HAZİNE ALACĞINA DÖNÜŞEN TOHUMLUK KREDİLERİ",
+    "description": "2004/5682 Sayılı Bakanlar Kurulu Kararı ile Hazine Alacağına Dönüşen Tohumluk Kredileri, bu karar kapsamında verilen tohumluk kredilerinin geri ödenmemesi durumunda hazine alacağına dönüşen tutarları kapsar. Bu düzenleme, tarım sektörünün desteklenmesini ve mali disiplinin sağlanmasını amaçlar."
+  },
+  {
+    "code": "9128",
+    "title": "4447 SAYILI İŞSİZLİK SİGORTASI KANUNU UYARINCA KESİLEN İ.P.C",
+    "description": "4447 Sayılı İşsizlik Sigortası Kanunu Uyarınca Kesilen İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, işsizlik sigortası sisteminin düzenlenmesini ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9129",
+    "title": "4904 SAYILI İŞ KURUMU KANUNU UYARINCA KESİLEN İ.P.C.",
+    "description": "4904 Sayılı İş Kurumu Kanunu Uyarınca Kesilen İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, iş ve çalışma hayatının düzenlenmesini ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9131",
+    "title": "VERASET VE İNTİKAL VERGİSİ (SAİR İVAZSIZ İNTİKALLER)",
+    "description": "Veraset ve İntikal Vergisi (Sair İvazsız İntikaller), veraset ve intikal vergisi kapsamında değerlendirilen ve karşılıksız olarak yapılan intikalleri kapsar. Bu düzenleme, vergi tahsilatının etkin bir şekilde yapılmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9132",
+    "title": "KLAVUZLUK VE ROMÖRKÖRCÜLÜK HİZMET PAYI",
+    "description": "Kılavuzluk ve Römorkörcülük Hizmet Payı, denizcilik sektöründe verilen kılavuzluk ve römorkörcülük hizmetlerinden elde edilen gelirleri kapsar. Bu düzenleme, denizcilik hizmetlerinin düzenlenmesini ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9133",
+    "title": "MAHALLİ İDARELERDEN ALINAN PAYLAR",
+    "description": "Mahalli İdarelerden Alınan Paylar, yerel yönetimlerden alınan gelir paylarını kapsar. Bu düzenleme, yerel yönetimlerin mali disiplinini sağlamayı ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9148",
+    "title": "4915 ve 5035 SK. GÖRE RUHSAT HARCI",
+    "description": "4915 ve 5035 Sayılı Kanunlara Göre Ruhsat Harcı, bu kanunlar kapsamında belirlenen ruhsat işlemleri için ödenmesi gereken harçları kapsar. Bu düzenleme, ruhsat işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9149",
+    "title": "KİRLETİLEN ÇEVRENİNİYİLEŞTİRİLMESİ İÇİNGENEL BÜTÇE KAPS.İD.YAPILAN HARCAMALARIN TAHSİLATI",
+    "description": "Kirletilen Çevrenin İyileştirilmesi İçin Genel Bütçe Kapsamında Yapılan Harcamaların Tahsilatı, çevre kirliliğinin giderilmesi amacıyla yapılan harcamaların tahsil edilmesini kapsar. Bu düzenleme, çevre korumasını ve sürdürülebilir kalkınmayı sağlamayı amaçlar."
+  },
+  {
+    "code": "9153",
+    "title": "5736 SAYILI KANUN UYARINCA TAHSİL EDİLECEK ECRİMİSİL GELİRLERİ",
+    "description": "5736 Sayılı Kanun Uyarınca Tahsil Edilecek Ecrimisil Gelirleri, bu kanun kapsamında belirlenen ecrimisil bedellerinin tahsil edilmesini kapsar. Bu düzenleme, kamu kaynaklarının etkin ve verimli kullanılmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9160",
+    "title": "MADENLERDEN ALINAN DEVLET HAKKINDAN %50 ?L ™ZEL ?DARE PAYI",
+    "description": "Madenlerden Alınan Devlet Hakkından %50 Özel İdare Payı, maden işletmelerinden alınan devlet hakkının %50'sinin özel idarelere aktarılmasını kapsar. Bu düzenleme, maden kaynaklarının etkin ve verimli kullanılmasını ve yerel yönetimlerin mali kaynaklarını artırmayı amaçlar."
+  },
+  {
+    "code": "9161",
+    "title": "MADENLERDEN ALINAN DEVLET HAKKININ %30 FAZLALARI(ORMAN GENEL MšDšRLš?š PAYI)",
+    "description": "Madenlerden Alınan Devlet Hakkının %30 Fazlaları (Orman Genel Müdürlüğü Payı), maden işletmelerinden alınan devlet hakkının %30 fazlasının Orman Genel Müdürlüğü'ne aktarılmasını kapsar. Bu düzenleme, orman kaynaklarının korunmasını ve sürdürülebilir kullanımını sağlamayı amaçlar."
+  },
+  {
+    "code": "9162",
+    "title": "KADASTRO HARÇLARI",
+    "description": "Kadastro Harçları, kadastro işlemleri için ödenmesi gereken harçları kapsar. Bu düzenleme, kadastro işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9166",
+    "title": "KARAR VE İLAM HARCI",
+    "description": "Karar ve İlam Harcı, mahkeme kararları ve ilamları için ödenmesi gereken harçları kapsar. Bu düzenleme, yargı işlemlerinin yasal olarak kayıt altına alınmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9171",
+    "title": "SORUMLU SIFATIYLA VERİLEN ÖTV 1. LİSTE",
+    "description": "Sorumlu Sıfatıyla Verilen ÖTV 1. Liste, özel tüketim vergisi mükelleflerinin sorumlu sıfatıyla ödemek zorunda oldukları ÖTV tutarlarını kapsar. Bu düzenleme, ÖTV tahsilatının etkin bir şekilde yapılmasını ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9180",
+    "title": "TELSİZ, TELEFON VE TELGRAF KANUNU İDARİ PARA CEZASI %80 İ",
+    "description": "Telsiz, Telefon ve Telgraf Kanunu İdari Para Cezası %80'i, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarının %80'ini kapsar. Bu düzenleme, telekomünikasyon sektörünün düzenlenmesini ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9190",
+    "title": "ÇEŞİTLİ GELİRLER(GECİKME ZAMMI HESAPLANAN)",
+    "description": "Çeşitli Gelirler (Gecikme Zammı Hesaplanan), devletin çeşitli gelir kalemlerinden elde edilen ve gecikme zammı hesaplanan tutarları kapsar. Bu düzenleme, kamu alacaklarının tahsilatını hızlandırmayı ve devletin gelirlerini artırmayı amaçlar."
+  },
+  {
+    "code": "9200",
+    "title": "DSİ SULAMA TESİSLERİ İŞLETME VE BAKIM ÜCRETİ",
+    "description": "DSİ Sulama Tesisleri İşletme ve Bakım Ücreti, Devlet Su İşleri tarafından işletilen sulama tesislerinin işletme ve bakım giderleri için alınan ücretleri kapsar. Bu düzenleme, sulama tesislerinin sürdürülebilir işletilmesini ve tarım sektörünün desteklenmesini amaçlar."
+  },
+  {
+    "code": "9201",
+    "title": "DSİ SULAMA TESİSLERİ YATIRIM BEDELİ",
+    "description": "DSİ Sulama Tesisleri Yatırım Bedeli, Devlet Su İşleri tarafından yapılan sulama tesisleri yatırımları için alınan bedelleri kapsar. Bu düzenleme, sulama altyapısının geliştirilmesini ve tarım sektörünün desteklenmesini amaçlar."
+  },
+  {
+    "code": "9301",
+    "title": "GENEL BÜTÇE DIŞINDA KALAN KURUMLAR TARAFINDAN YAPILAN İ.P.C",
+    "description": "Genel Bütçe Dışında Kalan Kurumlar Tarafından Yapılan İdari Para Cezası, genel bütçe dışında kalan kamu kurumları tarafından uygulanan idari para cezalarını kapsar. Bu düzenleme, kamu düzeninin sağlanmasını ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9304",
+    "title": "TELGRAF VE TELEFON KANUNU 2.MADDE İDARİ PARA CEZASI",
+    "description": "Telgraf ve Telefon Kanunu 2. Madde İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, telekomünikasyon sektörünün düzenlenmesini ve yasal işlemlerin kayıt altına alınmasını amaçlar."
+  },
+  {
+    "code": "9305",
+    "title": "SPOR MÜSABAKALARINDA ŞİDDET VE DÜZENSİZLİĞİN ÖNLENMESİ KANUNU UYARINCA İPC",
+    "description": "Spor Müsabakalarında Şiddet ve Düzensizliğin Önlenmesi Kanunu Uyarınca İdari Para Cezası, bu kanun kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, spor müsabakalarının güvenli ve düzenli bir şekilde gerçekleştirilmesini sağlamayı amaçlar."
+  },
+  {
+    "code": "9306",
+    "title": "1475 SAYILI İŞ KANUNUNA BAĞLI PARA CEZASI",
+    "description": "1475 Sayılı İş Kanununa Bağlı Para Cezası, iş kanunu kapsamında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, işçi haklarının korunmasını ve işverenlerin yasal yükümlülüklerini yerine getirmesini sağlamayı amaçlar."
+  },
+  {
+    "code": "9307",
+    "title": "3516 SAYILI KANUNA GÖRE ÖLÇÜ AYAR PARA CEZASI",
+    "description": "3516 Sayılı Kanuna Göre Ölçü Ayar Para Cezası, ölçü ve tartı aletlerinin doğru ve yasal olarak kullanılmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, ticarette adil ve doğru ölçüm yapılmasını ve tüketici haklarının korunmasını amaçlar."
+  },
+  {
+    "code": "9309",
+    "title": "TURİZM PARA CEZASI",
+    "description": "Turizm Para Cezası, turizm sektöründe faaliyet gösteren işletmelerin yasal düzenlemelere uymaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, turizm sektörünün düzenlenmesini ve turistlerin güvenli ve kaliteli hizmet almasını sağlamayı amaçlar."
+  },
+  {
+    "code": "9310",
+    "title": "5549 SAYILI SUÇ GELİRLERİNİN AKLANMASININ ÖNLENMESİ İ.P.C",
+    "description": "5549 Sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Kanunu Uyarınca İdari Para Cezası, suç gelirlerinin aklanmasını önlemek amacıyla belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, mali suçların önlenmesini ve finansal sistemin güvenliğini sağlamayı amaçlar."
+  },
+  {
+    "code": "9311",
+    "title": "TÜTÜN MAMULLERİNİN ZARARLARININ ÖNLENMESİNE DAİR KANUN UYARINCA AL.İ.P.C(4207 S.K.)",
+    "description": "Tütün Mamullerinin Zararlarının Önlenmesine Dair Kanun Uyarınca Alınan İdari Para Cezası (4207 Sayılı Kanun), tütün mamullerinin zararlarını önlemek amacıyla belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, halk sağlığının korunmasını ve tütün kullanımının azaltılmasını amaçlar."
+  },
+  {
+    "code": "9315",
+    "title": "ŞEKER KANUNU İDARİ PARA CEZASI",
+    "description": "Şeker Kanunu İdari Para Cezası, şeker üretimi ve satışı sırasında belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, şeker piyasasının düzenlenmesini ve tüketici haklarının korunmasını amaçlar."
+  },
+  {
+    "code": "9316",
+    "title": "4054 SAYILI REKABET KANUNUNUN 55. MADDE KAPSAMINDA İPC",
+    "description": "4054 Sayılı Rekabet Kanununun 55. Maddesi Kapsamında İdari Para Cezası, rekabet kurallarına uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, piyasa rekabetinin korunmasını ve haksız rekabetin önlenmesini amaçlar."
+  },
+  {
+    "code": "9317",
+    "title": "5326 SAYILI KANUN UYARINCA CUMHURİYET SAVCILIKLARINCA VERİLEN İ.P.C.",
+    "description": "5326 Sayılı Kanun Uyarınca Cumhuriyet Savcılıklarınca Verilen İdari Para Cezası, belirli suçlar ve kabahatler için savcılıklar tarafından uygulanan para cezalarını kapsar. Bu düzenleme, kamu düzeninin korunmasını ve yasal işlemlerin etkin bir şekilde yürütülmesini amaçlar."
+  },
+  {
+    "code": "9318",
+    "title": "5326 SAYILI KANUN UYARINCA MAHKEMELER TARAFINDAN VERİLEN İ.P.C.",
+    "description": "5326 Sayılı Kanun Uyarınca Mahkemeler Tarafından Verilen İdari Para Cezası, belirli suçlar ve kabahatler için mahkemeler tarafından uygulanan para cezalarını kapsar. Bu düzenleme, adaletin sağlanmasını ve yasal işlemlerin etkin bir şekilde yürütülmesini amaçlar."
+  },
+  {
+    "code": "9341",
+    "title": "MERA FONU PARA CEZASI",
+    "description": "Mera Fonu Para Cezası, mera alanlarının korunması ve düzenlenmesi amacıyla belirlenen kurallara uyulmaması durumunda uygulanan para cezalarını kapsar. Bu düzenleme, mera alanlarının sürdürülebilir kullanımını ve tarım sektörünün desteklenmesini amaçlar."
+  },
+  {
+    "code": "9901",
+    "title": "ADİ ORTAKLIK MÜKELLEFİYETSİZ MÜKELLEF KAYDI İÇİN VERGİ KODU",
+    "description": "Adi Ortaklık Mükellefiyetsiz Mükellef Kaydı İçin Vergi Kodu, adi ortaklıkların mükellefiyet kaydı olmadan vergi kodu almasını kapsar. Bu düzenleme, adi ortaklıkların vergi yükümlülüklerini yerine getirmesini ve yasal olarak kayıt altına alınmasını amaçlar."
+  }
+]
